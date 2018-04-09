@@ -37,6 +37,15 @@ function update() {
 		ctx.fillRect(x+zoom*dx, y+zoom*dy, zoom*5, zoom*5);
 	}
 }
+function zoomByVal(z){
+	var exZoom = zoom;
+	zoom = Math.min(2,Math.max(zoom - z/100, 0.2));
+	x = zoom/exZoom*(x-elem.width/2)+elem.width/2;
+	y = zoom/exZoom*(y-elem.height/2)+elem.height/2;
+	console.log(x,y);
+	console.log(zoom);
+	update();
+}
 window.addEventListener('load', function(){
 	if(imageLoad && dataLoad){
 		elem = document.getElementById("gc");
@@ -52,14 +61,14 @@ window.addEventListener('load', function(){
 			msDown = true;
 			lastSeenAt.x = e.clientX;
 			lastSeenAt.y = e.clientY;
-			console.log((e.clientX-x)*(1/zoom),(e.clientY-y)*(1/zoom));
+			//console.log((e.clientX-x)*(1/zoom),(e.clientY-y)*(1/zoom));
 		},false);
 		window.addEventListener("mouseup", function(e){
 			msDown = false;
 		},false);
 		elem.addEventListener("wheel", function(e){
 			var exZoom = zoom;
-			zoom = Math.min(1.2,Math.max(zoom - e.deltaY/100, 0.2));
+			zoom = Math.min(2,Math.max(zoom - e.deltaY/100, 0.2));
 			x = zoom/exZoom*(x-e.clientX)+e.clientX;
 			y = zoom/exZoom*(y-e.clientY)+e.clientY;
 			update();
