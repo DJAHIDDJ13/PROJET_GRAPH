@@ -4,7 +4,7 @@ var rawFile = new XMLHttpRequest();
 var data;
 var sommets = [];
 rawFile.overrideMimeType("application/json");
-rawFile.open("GET", "dataFixed2.json", true);
+rawFile.open("GET", "dataF3.json", true);
 rawFile.onreadystatechange = function() {
 	if(rawFile.readyState == 4 && rawFile.status =="200"){
 		data = JSON.parse(rawFile.responseText);
