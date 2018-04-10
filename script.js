@@ -30,7 +30,7 @@ function update() {
 	ctx.fillStyle = "#F0F0F0";
 	ctx.fillRect(0, 0, elem.clientWidth, elem.clientHeight);
 	ctx.drawImage(base_image, x, y, w*zoom, h*zoom);
-	for(var i=0; i<data.length; i++){
+	for(var i=0; i<sommets.length; i++){
 		ctx.fillStyle = "#000000";
 		var dx = sommets[i].x;
 		var dy = sommets[i].y;
@@ -59,7 +59,7 @@ function show(){
 window.addEventListener('load', function(){
 	if(imageLoad && dataLoad){
 		elem = document.getElementById("gc");
-		if(!elem || !elem.getContext) 
+		if(!elem || !elem.getContext)
 			return;
 		ctx = elem.getContext("2d");
 		if(!ctx)
@@ -74,7 +74,7 @@ window.addEventListener('load', function(){
 			lastSeenAt.y = e.clientY;
 			for(var i=0; i<sommets.length; i++){
 				var sommet = sommets[i];
-				if(Math.sqrt(Math.pow(sommet.x-(e.clientX-x)*(1/zoom), 2) + Math.pow(sommet.y-(e.clientY-y)*(1/zoom),2)) < 5){
+				if(Math.sqrt(Math.pow(sommet.x-(e.clientX-x)*(1/zoom), 2) + Math.pow(sommet.y-(e.clientY-y)*(1/zoom),2)) < 5) {
 					console.log("clicked on : ", sommet);
 					selected = i;
 					return;
@@ -110,6 +110,18 @@ window.addEventListener('load', function(){
 				}
 			}
 		},false);
+		elem.addEventListener("dblclick", function(e){
+			for(var i=0; i<sommets.length; i++){
+				var sommet = sommets[i];
+				if(Math.sqrt(Math.pow(sommet.x-(e.clientX-x)*(1/zoom), 2) + Math.pow(sommet.y-(e.clientY-y)*(1/zoom),2)) < 6) {
+					sommets.splice(i, 1);
+					update();
+					return;
+				}
+			}
+			sommets.push({x:(e.clientX-x)*(1/zoom),y:(e.clientY-y)*(1/zoom)});
+			update();
+		}, false);
 	}
 }, false);
 
