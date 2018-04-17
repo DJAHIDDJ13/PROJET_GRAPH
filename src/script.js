@@ -4,32 +4,33 @@ var leftShow = 0, topShow = 0, zoom = 1.0;
 var dep, ar;
 var arret = [];
 var arcs = [];
+var sommets = [];
 var input;
 var show = false;
 function preload(){
 	imagePiste = loadImage("piste.png");
-	dataGraph  = loadJSON("dataF3.json");
-	arcs = loadJSON("arcs.json");
+	dataGraph = loadJSON("data.json");
 }
 function setup(){
 	var c = createCanvas(windowWidth*0.8,windowHeight*0.8);
 	input = createInput('');
-	arcs = arcs.arrets;
+	sommets = dataGraph.sommets;
+	arcs = dataGraph.arrets;
 	background(51);
 }
 function draw(){
 	fill(51);
 	rect(0, 0, width, height);
 	image(imagePiste, leftShow, topShow, imagePiste.width*zoom, imagePiste.height*zoom);
-	for(var i=0; i<dataGraph.sommets.length; i++){
+	for(var i=0; i<sommets.length; i++){
 		if(ar==i)
 			fill(255,0,0);
 		else if(dep == i)
 			fill(0,255,0);
 		else
 			fill(0);
-		var dx = dataGraph.sommets[i][0];
-		var dy = dataGraph.sommets[i][1];
+		var dx = sommets[i][0];
+		var dy = sommets[i][1];
 		rect(leftShow+zoom*dx-3, topShow+zoom*dy-3, zoom*6, zoom*6);
 	}
 	noFill();
@@ -59,18 +60,17 @@ function keyPressed() {
 		arcs.push(tmp);
 		arret = [];
 	}
-	console.log(keyCode);
 	if(keyCode == 32)
 		show = !show;
 }
 function mousePressed() {
-	if(ar && dep && mouseButton == "center"){
+	if(ar!=undefined && dep!=undefined && mouseButton == "center"){
 		arret.push([(mouseX-leftShow)/zoom, (mouseY-topShow)/zoom]);
 	}
 }
 function doubleClicked(){
-	for(var i=0; i<dataGraph.sommets.length; i++){
-		if(Math.sqrt(Math.pow(dataGraph.sommets[i][0]-(mouseX-leftShow)*(1/zoom), 2) + Math.pow(dataGraph.sommets[i][1]-(mouseY-topShow)*(1/zoom),2)) < 5){
+	for(var i=0; i<sommets.length; i++){
+		if(Math.sqrt(Math.pow(sommets[i][0]-(mouseX-leftShow)*(1/zoom), 2) + Math.pow(sommets[i][1]-(mouseY-topShow)*(1/zoom),2)) < 5){
 			if(i != ar){
 				dep = ar;
 				ar = i;
