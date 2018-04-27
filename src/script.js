@@ -89,6 +89,7 @@ function doubleClicked(){
 			ar = i;
 			if(ar == dep)
 				ar = ex;
+			console.log(ar);
 			return;
 		}
 	}
