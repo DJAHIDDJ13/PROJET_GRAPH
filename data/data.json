@@ -152,7 +152,7 @@
 	"arrets":
 		[
 		  {
-			"nom": "M ROCHET BLANC",
+			"nom": "ROCHET BLANC",
 			"coords": [
 			  [
 				411,
@@ -164,10 +164,12 @@
 			  ]
 			],
 			"dep": 116,
-			"ar": 20
+			"ar": 20,
+			"len": 239,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M CROIX NOIRE",
+			"nom": "CROIX NOIRE",
 			"coords": [
 			  [
 				411,
@@ -183,10 +185,12 @@
 			  ]
 			],
 			"dep": 116,
-			"ar": 15
+			"ar": 15,
+			"len": 138,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M PROREL3",
+			"nom": "PROREL3",
 			"coords": [
 			  [
 				151,
@@ -210,10 +214,12 @@
 			  ]
 			],
 			"dep": 1,
-			"ar": 2
+			"ar": 2,
+			"len": 260,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M LOURON",
+			"nom": "LOURON",
 			"coords": [
 			  [
 				281,
@@ -229,10 +235,12 @@
 			  ]
 			],
 			"dep": 13,
-			"ar": 3
+			"ar": 3,
+			"len": 44,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M STADE",
+			"nom": "STADE",
 			"coords": [
 			  [
 				295,
@@ -260,10 +268,12 @@
 			  ]
 			],
 			"dep": 3,
-			"ar": 9
+			"ar": 9,
+			"len": 204,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M PROREL2",
+			"nom": "PROREL2",
 			"coords": [
 			  [
 				261,
@@ -299,10 +309,12 @@
 			  ]
 			],
 			"dep": 2,
-			"ar": 16
+			"ar": 16,
+			"len": 414,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M SERRE PELAT",
+			"nom": "SERRE PELAT",
 			"coords": [
 			  [
 				205,
@@ -334,10 +346,12 @@
 			  ]
 			],
 			"dep": 5,
-			"ar": 8
+			"ar": 8,
+			"len": 210,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M PROREL",
+			"nom": "PROREL",
 			"coords": [
 			  [
 				860,
@@ -369,10 +383,12 @@
 			  ]
 			],
 			"dep": 29,
-			"ar": 19
+			"ar": 19,
+			"len": 345,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M BOIS DES COQS 1-2",
+			"nom": "BOIS DES COQS 1-2",
 			"coords": [
 			  [
 				877,
@@ -436,10 +452,12 @@
 			  ]
 			],
 			"dep": 29,
-			"ar": 27
+			"ar": 27,
+			"len": 482,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M COMBES",
+			"nom": "COMBES",
 			"coords": [
 			  [
 				954,
@@ -471,10 +489,12 @@
 			  ]
 			],
 			"dep": 118,
-			"ar": 30
+			"ar": 30,
+			"len": 333,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M CHAMPCELLA",
+			"nom": "CHAMPCELLA",
 			"coords": [
 			  [
 				1043,
@@ -514,10 +534,12 @@
 			  ]
 			],
 			"dep": 48,
-			"ar": 134
+			"ar": 134,
+			"len": 172,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M RATIER",
+			"nom": "RATIER",
 			"coords": [
 			  [
 				934,
@@ -545,10 +567,12 @@
 			  ]
 			],
 			"dep": 50,
-			"ar": 135
+			"ar": 135,
+			"len": 499,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M ARAVET",
+			"nom": "ARAVET",
 			"coords": [
 			  [
 				1273,
@@ -580,10 +604,12 @@
 			  ]
 			],
 			"dep": 52,
-			"ar": 51
+			"ar": 51,
+			"len": 262,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M CASSE DU BOUF",
+			"nom": "CASSE DU BOUF",
 			"coords": [
 			  [
 				1318,
@@ -631,10 +657,12 @@
 			  ]
 			],
 			"dep": 53,
-			"ar": 66
+			"ar": 66,
+			"len": 400,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M FREJUS",
+			"nom": "FREJUS",
 			"coords": [
 			  [
 				1337,
@@ -666,10 +694,12 @@
 			  ]
 			],
 			"dep": 53,
-			"ar": 62
+			"ar": 62,
+			"len": 318,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M PONTRLAS",
+			"nom": "PONTRLAS",
 			"coords": [
 			  [
 				1485,
@@ -701,10 +731,12 @@
 			  ]
 			],
 			"dep": 54,
-			"ar": 57
+			"ar": 57,
+			"len": 246,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M VALLONS",
+			"nom": "VALLONS",
 			"coords": [
 			  [
 				1413,
@@ -744,10 +776,12 @@
 			  ]
 			],
 			"dep": 59,
-			"ar": 68
+			"ar": 68,
+			"len": 405,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M CUCUMELLE",
+			"nom": "CUCUMELLE",
 			"coords": [
 			  [
 				1894,
@@ -771,10 +805,12 @@
 			  ]
 			],
 			"dep": 132,
-			"ar": 68
+			"ar": 68,
+			"len": 155,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M YVRET",
+			"nom": "YVRET",
 			"coords": [
 			  [
 				2100,
@@ -822,10 +858,12 @@
 			  ]
 			],
 			"dep": 91,
-			"ar": 18
+			"ar": 18,
+			"len": 285,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M CIBOUIT",
+			"nom": "CIBOUIT",
 			"coords": [
 			  [
 				2105,
@@ -845,10 +883,12 @@
 			  ]
 			],
 			"dep": 91,
-			"ar": 90
+			"ar": 90,
+			"len": 169,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M RACHAS",
+			"nom": "RACHAS",
 			"coords": [
 			  [
 				2073,
@@ -892,10 +932,12 @@
 			  ]
 			],
 			"dep": 106,
-			"ar": 144
+			"ar": 144,
+			"len": 357,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M AYA",
+			"nom": "AYA",
 			"coords": [
 			  [
 				2069,
@@ -923,10 +965,12 @@
 			  ]
 			],
 			"dep": 106,
-			"ar": 81
+			"ar": 81,
+			"len": 207,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M EYCHAUDA",
+			"nom": "EYCHAUDA",
 			"coords": [
 			  [
 				2089,
@@ -954,10 +998,12 @@
 			  ]
 			],
 			"dep": 91,
-			"ar": 131
+			"ar": 131,
+			"len": 199,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M ETOILE",
+			"nom": "ETOILE",
 			"coords": [
 			  [
 				1941,
@@ -981,10 +1027,12 @@
 			  ]
 			],
 			"dep": 101,
-			"ar": 93
+			"ar": 93,
+			"len": 175,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M AIGUILLETTE",
+			"nom": "AIGUILLETTE",
 			"coords": [
 			  [
 				720,
@@ -1016,10 +1064,12 @@
 			  ]
 			],
 			"dep": 26,
-			"ar": 24
+			"ar": 24,
+			"len": 317,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M SERRE CHEVALIER",
+			"nom": "SERRE CHEVALIER",
 			"coords": [
 			  [
 				1025,
@@ -1051,10 +1101,12 @@
 			  ]
 			],
 			"dep": 135,
-			"ar": 35
+			"ar": 35,
+			"len": 402,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M OREE DU BOIS",
+			"nom": "OREE DU BOIS",
 			"coords": [
 			  [
 				1031,
@@ -1078,10 +1130,12 @@
 			  ]
 			],
 			"dep": 135,
-			"ar": 40
+			"ar": 40,
+			"len": 242,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M GRAND SERRE",
+			"nom": "GRAND SERRE",
 			"coords": [
 			  [
 				957,
@@ -1109,10 +1163,12 @@
 			  ]
 			],
 			"dep": 32,
-			"ar": 35
+			"ar": 35,
+			"len": 242,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M EYCHAUDA",
+			"nom": "EYCHAUDA",
 			"coords": [
 			  [
 				1280,
@@ -1128,10 +1184,12 @@
 			  ]
 			],
 			"dep": 78,
-			"ar": 79
+			"ar": 79,
+			"len": 141,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M CLOT GAUTHIER",
+			"nom": "CLOT GAUTHIER",
 			"coords": [
 			  [
 				1290,
@@ -1147,10 +1205,12 @@
 			  ]
 			],
 			"dep": 65,
-			"ar": 77
+			"ar": 77,
+			"len": 176,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M BARRES",
+			"nom": "BARRES",
 			"coords": [
 			  [
 				1381,
@@ -1178,10 +1238,12 @@
 			  ]
 			],
 			"dep": 142,
-			"ar": 73
+			"ar": 73,
+			"len": 177,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M CRETES",
+			"nom": "CRETES",
 			"coords": [
 			  [
 				1354,
@@ -1209,10 +1271,12 @@
 			  ]
 			],
 			"dep": 62,
-			"ar": 75
+			"ar": 75,
+			"len": 159,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M CLOT",
+			"nom": "CLOT",
 			"coords": [
 			  [
 				1452,
@@ -1224,10 +1288,12 @@
 			  ]
 			],
 			"dep": 74,
-			"ar": 70
+			"ar": 70,
+			"len": 85,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M MEA",
+			"nom": "MEA",
 			"coords": [
 			  [
 				1451,
@@ -1243,10 +1309,12 @@
 			  ]
 			],
 			"dep": 74,
-			"ar": 69
+			"ar": 69,
+			"len": 121,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M FORET",
+			"nom": "FORET",
 			"coords": [
 			  [
 				1163,
@@ -1290,10 +1358,12 @@
 			  ]
 			],
 			"dep": 51,
-			"ar": 36
+			"ar": 36,
+			"len": 251,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M ALPAGE",
+			"nom": "ALPAGE",
 			"coords": [
 			  [
 				1150,
@@ -1305,10 +1375,12 @@
 			  ]
 			],
 			"dep": 84,
-			"ar": 82
+			"ar": 82,
+			"len": 90,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M COTE CHEVALIER",
+			"nom": "COTE CHEVALIER",
 			"coords": [
 			  [
 				1281,
@@ -1320,10 +1392,12 @@
 			  ]
 			],
 			"dep": 64,
-			"ar": 36
+			"ar": 36,
+			"len": 207,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M PRE DU BOIS",
+			"nom": "PRE DU BOIS",
 			"coords": [
 			  [
 				1302,
@@ -1339,10 +1413,12 @@
 			  ]
 			],
 			"dep": 61,
-			"ar": 66
+			"ar": 66,
+			"len": 125,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M FREJUS",
+			"nom": "FREJUS",
 			"coords": [
 			  [
 				1409,
@@ -1366,10 +1442,12 @@
 			  ]
 			],
 			"dep": 57,
-			"ar": 63
+			"ar": 63,
+			"len": 148,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M GRAND ALPE",
+			"nom": "GRAND ALPE",
 			"coords": [
 			  [
 				929,
@@ -1381,10 +1459,12 @@
 			  ]
 			],
 			"dep": 31,
-			"ar": 137
+			"ar": 137,
+			"len": 80,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M BEPLAT",
+			"nom": "BEPLAT",
 			"coords": [
 			  [
 				932,
@@ -1396,10 +1476,12 @@
 			  ]
 			],
 			"dep": 31,
-			"ar": 33
+			"ar": 33,
+			"len": 115,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "M LAZIERES",
+			"nom": "LAZIERES",
 			"coords": [
 			  [
 				2045,
@@ -1427,10 +1509,12 @@
 			  ]
 			],
 			"dep": 96,
-			"ar": 145
+			"ar": 145,
+			"len": 166,
+			"couleur": "M"
 		  },
 		  {
-			"nom": "R VAUBAN",
+			"nom": "VAUBAN",
 			"coords": [
 			  [
 				281,
@@ -1550,10 +1634,12 @@
 			  ]
 			],
 			"dep": 13,
-			"ar": 1
+			"ar": 1,
+			"len": 281,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R VAUBAN1",
+			"nom": "VAUBAN1",
 			"coords": [
 			  [
 				263,
@@ -1577,10 +1663,12 @@
 			  ]
 			],
 			"dep": 2,
-			"ar": 13
+			"ar": 13,
+			"len": 38,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R VAUBAN2",
+			"nom": "VAUBAN2",
 			"coords": [
 			  [
 				292,
@@ -1604,10 +1692,12 @@
 			  ]
 			],
 			"dep": 3,
-			"ar": 13
+			"ar": 13,
+			"len": 43,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R GDE GARGOUILLE",
+			"nom": "GDE GARGOUILLE",
 			"coords": [
 			  [
 				360,
@@ -1639,10 +1729,12 @@
 			  ]
 			],
 			"dep": 12,
-			"ar": 3
+			"ar": 3,
+			"len": 104,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CROIX MICHEL1",
+			"nom": "CROIX MICHEL1",
 			"coords": [
 			  [
 				265,
@@ -1682,10 +1774,12 @@
 			  ]
 			],
 			"dep": 4,
-			"ar": 3
+			"ar": 3,
+			"len": 75,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CROIX MICHEL",
+			"nom": "CROIX MICHEL",
 			"coords": [
 			  [
 				359,
@@ -1709,10 +1803,12 @@
 			  ]
 			],
 			"dep": 12,
-			"ar": 4
+			"ar": 4,
+			"len": 98,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R  CROCUS1",
+			"nom": "CROCUS1",
 			"coords": [
 			  [
 				393,
@@ -1748,10 +1844,12 @@
 			  ]
 			],
 			"dep": 11,
-			"ar": 12
+			"ar": 12,
+			"len": 82,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R GRANDE GARGOUILLE1",
+			"nom": "GRANDE GARGOUILLE1",
 			"coords": [
 			  [
 				394,
@@ -1787,10 +1885,12 @@
 			  ]
 			],
 			"dep": 9,
-			"ar": 11
+			"ar": 11,
+			"len": 68,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R REMPARTS",
+			"nom": "REMPARTS",
 			"coords": [
 			  [
 				355,
@@ -1834,10 +1934,12 @@
 			  ]
 			],
 			"dep": 10,
-			"ar": 4
+			"ar": 4,
+			"len": 143,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R GRANDE GARGOUILLE2",
+			"nom": "GRANDE GARGOUILLE2",
 			"coords": [
 			  [
 				393,
@@ -1853,10 +1955,12 @@
 			  ]
 			],
 			"dep": 9,
-			"ar": 10
+			"ar": 10,
+			"len": 40,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R GRANDE GARGOUILLE",
+			"nom": "GRANDE GARGOUILLE",
 			"coords": [
 			  [
 				517,
@@ -1916,10 +2020,12 @@
 			  ]
 			],
 			"dep": 123,
-			"ar": 9
+			"ar": 9,
+			"len": 169,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CROCUS",
+			"nom": "CROCUS",
 			"coords": [
 			  [
 				474,
@@ -1963,10 +2069,12 @@
 			  ]
 			],
 			"dep": 14,
-			"ar": 11
+			"ar": 11,
+			"len": 136,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R GRANDE GARGOUILLE3",
+			"nom": "GRANDE GARGOUILLE3",
 			"coords": [
 			  [
 				518,
@@ -2022,10 +2130,12 @@
 			  ]
 			],
 			"dep": 123,
-			"ar": 14
+			"ar": 14,
+			"len": 127,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CH DE RONDE",
+			"nom": "CH DE RONDE",
 			"coords": [
 			  [
 				517,
@@ -2077,10 +2187,12 @@
 			  ]
 			],
 			"dep": 123,
-			"ar": 8
+			"ar": 8,
+			"len": 171,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R PREVOUX1",
+			"nom": "PREVOUX1",
 			"coords": [
 			  [
 				531,
@@ -2100,10 +2212,12 @@
 			  ]
 			],
 			"dep": 16,
-			"ar": 123
+			"ar": 123,
+			"len": 32,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CONDAMINE",
+			"nom": "CONDAMINE",
 			"coords": [
 			  [
 				546,
@@ -2143,10 +2257,12 @@
 			  ]
 			],
 			"dep": 15,
-			"ar": 116
+			"ar": 116,
+			"len": 144,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CH. RONDE",
+			"nom": "CH. RONDE",
 			"coords": [
 			  [
 				369,
@@ -2174,10 +2290,12 @@
 			  ]
 			],
 			"dep": 8,
-			"ar": 10
+			"ar": 10,
+			"len": 74,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CLUB",
+			"nom": "CLUB",
 			"coords": [
 			  [
 				367,
@@ -2217,10 +2335,12 @@
 			  ]
 			],
 			"dep": 8,
-			"ar": 6
+			"ar": 6,
+			"len": 176,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "V BERGERS",
+			"nom": "BERGERS",
 			"coords": [
 			  [
 				630,
@@ -2308,10 +2428,12 @@
 			  ]
 			],
 			"dep": 20,
-			"ar": 116
+			"ar": 116,
+			"len": 244,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V PREVOUX1",
+			"nom": "PREVOUX1",
 			"coords": [
 			  [
 				546,
@@ -2327,10 +2449,12 @@
 			  ]
 			],
 			"dep": 15,
-			"ar": 16
+			"ar": 16,
+			"len": 22,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V PREVOUX",
+			"nom": "PREVOUX",
 			"coords": [
 			  [
 				527,
@@ -2358,10 +2482,12 @@
 			  ]
 			],
 			"dep": 16,
-			"ar": 116
+			"ar": 116,
+			"len": 120,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "B CHAUVET",
+			"nom": "CHAUVET",
 			"coords": [
 			  [
 				628,
@@ -2421,10 +2547,12 @@
 			  ]
 			],
 			"dep": 20,
-			"ar": 116
+			"ar": 116,
+			"len": 252,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B CHAUVET1",
+			"nom": "CHAUVET1",
 			"coords": [
 			  [
 				636,
@@ -2436,10 +2564,12 @@
 			  ]
 			],
 			"dep": 19,
-			"ar": 20
+			"ar": 20,
+			"len": 12,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B CHEMIN",
+			"nom": "CHEMIN",
 			"coords": [
 			  [
 				408,
@@ -2499,10 +2629,12 @@
 			  ]
 			],
 			"dep": 116,
-			"ar": 7
+			"ar": 7,
+			"len": 235,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B DAME DES NEIGES",
+			"nom": "DAME DES NEIGES",
 			"coords": [
 			  [
 				367,
@@ -2542,10 +2674,12 @@
 			  ]
 			],
 			"dep": 8,
-			"ar": 7
+			"ar": 7,
+			"len": 98,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B CHEMIN1",
+			"nom": "CHEMIN1",
 			"coords": [
 			  [
 				289,
@@ -2589,10 +2723,12 @@
 			  ]
 			],
 			"dep": 7,
-			"ar": 6
+			"ar": 6,
+			"len": 107,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B CHEMIN2",
+			"nom": "CHEMIN2",
 			"coords": [
 			  [
 				228,
@@ -2616,10 +2752,12 @@
 			  ]
 			],
 			"dep": 6,
-			"ar": 5
+			"ar": 5,
+			"len": 53,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B CHEMIN3",
+			"nom": "CHEMIN3",
 			"coords": [
 			  [
 				206,
@@ -2659,10 +2797,12 @@
 			  ]
 			],
 			"dep": 5,
-			"ar": 3
+			"ar": 3,
+			"len": 137,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B CHEMIN4",
+			"nom": "CHEMIN4",
 			"coords": [
 			  [
 				292,
@@ -2682,10 +2822,12 @@
 			  ]
 			],
 			"dep": 3,
-			"ar": 2
+			"ar": 2,
+			"len": 31,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B YETI",
+			"nom": "YETI",
 			"coords": [
 			  [
 				395,
@@ -2757,10 +2899,12 @@
 			  ]
 			],
 			"dep": 9,
-			"ar": 5
+			"ar": 5,
+			"len": 215,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "N COULOIRS",
+			"nom": "COULOIRS",
 			"coords": [
 			  [
 				519,
@@ -2800,10 +2944,12 @@
 			  ]
 			],
 			"dep": 123,
-			"ar": 14
+			"ar": 14,
+			"len": 111,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "R AIGUILLETTE",
+			"nom": "AIGUILLETTE",
 			"coords": [
 			  [
 				687,
@@ -2907,10 +3053,12 @@
 			  ]
 			],
 			"dep": 24,
-			"ar": 26
+			"ar": 26,
+			"len": 466,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R EDUITS1",
+			"nom": "EDUITS1",
 			"coords": [
 			  [
 				687,
@@ -2942,10 +3090,12 @@
 			  ]
 			],
 			"dep": 24,
-			"ar": 0
+			"ar": 0,
+			"len": 92,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R EDUITS",
+			"nom": "EDUITS",
 			"coords": [
 			  [
 				753,
@@ -3009,10 +3159,12 @@
 			  ]
 			],
 			"dep": 0,
-			"ar": 147
+			"ar": 147,
+			"len": 172,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R EDUITS2",
+			"nom": "EDUITS2",
 			"coords": [
 			  [
 				788,
@@ -3096,10 +3248,12 @@
 			  ]
 			],
 			"dep": 147,
-			"ar": 26
+			"ar": 26,
+			"len": 178,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R SALUDES",
+			"nom": "SALUDES",
 			"coords": [
 			  [
 				637,
@@ -3119,10 +3273,12 @@
 			  ]
 			],
 			"dep": 19,
-			"ar": 22
+			"ar": 22,
+			"len": 58,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R SALUDES",
+			"nom": "SALUDES",
 			"coords": [
 			  [
 				678,
@@ -3166,10 +3322,12 @@
 			  ]
 			],
 			"dep": 22,
-			"ar": 0
+			"ar": 0,
+			"len": 142,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "B MYRTILLES1",
+			"nom": "MYRTILLES1",
 			"coords": [
 			  [
 				639,
@@ -3189,10 +3347,12 @@
 			  ]
 			],
 			"dep": 19,
-			"ar": 21
+			"ar": 21,
+			"len": 46,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MYRTILLES2",
+			"nom": "MYRTILLES2",
 			"coords": [
 			  [
 				683,
@@ -3212,10 +3372,12 @@
 			  ]
 			],
 			"dep": 21,
-			"ar": 139
+			"ar": 139,
+			"len": 44,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MYRTILLES3",
+			"nom": "MYRTILLES3",
 			"coords": [
 			  [
 				630,
@@ -3239,10 +3401,12 @@
 			  ]
 			],
 			"dep": 20,
-			"ar": 22
+			"ar": 22,
+			"len": 57,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MYRTILLES4",
+			"nom": "MYRTILLES4",
 			"coords": [
 			  [
 				681,
@@ -3258,10 +3422,12 @@
 			  ]
 			],
 			"dep": 22,
-			"ar": 139
+			"ar": 139,
+			"len": 30,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MYRTILLES",
+			"nom": "MYRTILLES",
 			"coords": [
 			  [
 				709,
@@ -3301,10 +3467,12 @@
 			  ]
 			],
 			"dep": 139,
-			"ar": 23
+			"ar": 23,
+			"len": 134,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MYRTILLES5",
+			"nom": "MYRTILLES5",
 			"coords": [
 			  [
 				827,
@@ -3352,10 +3520,12 @@
 			  ]
 			],
 			"dep": 23,
-			"ar": 17
+			"ar": 17,
+			"len": 124,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "N CABANE DU BERGER",
+			"nom": "CABANE DU BERGER",
 			"coords": [
 			  [
 				684,
@@ -3407,10 +3577,12 @@
 			  ]
 			],
 			"dep": 21,
-			"ar": 23
+			"ar": 23,
+			"len": 188,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "R SALUDES2",
+			"nom": "SALUDES2",
 			"coords": [
 			  [
 				756,
@@ -3446,10 +3618,12 @@
 			  ]
 			],
 			"dep": 0,
-			"ar": 29
+			"ar": 29,
+			"len": 185,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "B MYRTYLLES6",
+			"nom": "MYRTYLLES6",
 			"coords": [
 			  [
 				833,
@@ -3505,10 +3679,12 @@
 			  ]
 			],
 			"dep": 17,
-			"ar": 29
+			"ar": 29,
+			"len": 138,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "V 3CROIX1",
+			"nom": "3CROIX1",
 			"coords": [
 			  [
 				870,
@@ -3536,10 +3712,12 @@
 			  ]
 			],
 			"dep": 29,
-			"ar": 25
+			"ar": 25,
+			"len": 58,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "R EDUITS1",
+			"nom": "EDUITS1",
 			"coords": [
 			  [
 				812,
@@ -3559,10 +3737,12 @@
 			  ]
 			],
 			"dep": 25,
-			"ar": 147
+			"ar": 147,
+			"len": 30,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "V 3CROIX2",
+			"nom": "3CROIX2",
 			"coords": [
 			  [
 				812,
@@ -3650,10 +3830,12 @@
 			  ]
 			],
 			"dep": 25,
-			"ar": 26
+			"ar": 26,
+			"len": 490,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V CELVAN",
+			"nom": "CELVAN",
 			"coords": [
 			  [
 				722,
@@ -3713,10 +3895,12 @@
 			  ]
 			],
 			"dep": 26,
-			"ar": 49
+			"ar": 49,
+			"len": 232,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "R PETIT ALPE",
+			"nom": "PETIT ALPE",
 			"coords": [
 			  [
 				931,
@@ -3796,10 +3980,12 @@
 			  ]
 			],
 			"dep": 27,
-			"ar": 17
+			"ar": 17,
+			"len": 255,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R BOIS DES COQS",
+			"nom": "BOIS DES COQS",
 			"coords": [
 			  [
 				933,
@@ -3903,10 +4089,12 @@
 			  ]
 			],
 			"dep": 27,
-			"ar": 29
+			"ar": 29,
+			"len": 297,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "B VALLONS1",
+			"nom": "VALLONS1",
 			"coords": [
 			  [
 				932,
@@ -3930,10 +4118,12 @@
 			  ]
 			],
 			"dep": 27,
-			"ar": 28
+			"ar": 28,
+			"len": 50,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B VALLONS",
+			"nom": "VALLONS",
 			"coords": [
 			  [
 				983,
@@ -4029,10 +4219,12 @@
 			  ]
 			],
 			"dep": 28,
-			"ar": 29
+			"ar": 29,
+			"len": 307,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B VALLONS2",
+			"nom": "VALLONS2",
 			"coords": [
 			  [
 				1108,
@@ -4052,10 +4244,12 @@
 			  ]
 			],
 			"dep": 35,
-			"ar": 28
+			"ar": 28,
+			"len": 128,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "V GRAND ALPE",
+			"nom": "GRAND ALPE",
 			"coords": [
 			  [
 				1010,
@@ -4099,10 +4293,12 @@
 			  ]
 			],
 			"dep": 33,
-			"ar": 31
+			"ar": 31,
+			"len": 133,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V GRAND ALPE1",
+			"nom": "GRAND ALPE1",
 			"coords": [
 			  [
 				982,
@@ -4138,10 +4334,12 @@
 			  ]
 			],
 			"dep": 137,
-			"ar": 31
+			"ar": 31,
+			"len": 92,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "B VALLONS2",
+			"nom": "VALLONS2",
 			"coords": [
 			  [
 				873,
@@ -4181,10 +4379,12 @@
 			  ]
 			],
 			"dep": 29,
-			"ar": 95
+			"ar": 95,
+			"len": 133,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "R PETIT ALPE1",
+			"nom": "PETIT ALPE1",
 			"coords": [
 			  [
 				833,
@@ -4220,10 +4420,12 @@
 			  ]
 			],
 			"dep": 17,
-			"ar": 29
+			"ar": 29,
+			"len": 81,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "V GRAND SERRE",
+			"nom": "GRAND SERRE",
 			"coords": [
 			  [
 				1011,
@@ -4267,10 +4469,12 @@
 			  ]
 			],
 			"dep": 33,
-			"ar": 31
+			"ar": 31,
+			"len": 126,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V 3CROIX",
+			"nom": "3CROIX",
 			"coords": [
 			  [
 				977,
@@ -4322,10 +4526,12 @@
 			  ]
 			],
 			"dep": 42,
-			"ar": 29
+			"ar": 29,
+			"len": 159,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "N MUR CHEVALIER",
+			"nom": "MUR CHEVALIER",
 			"coords": [
 			  [
 				1109,
@@ -4369,10 +4575,12 @@
 			  ]
 			],
 			"dep": 35,
-			"ar": 34
+			"ar": 34,
+			"len": 155,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "R DRAYE",
+			"nom": "DRAYE",
 			"coords": [
 			  [
 				1112,
@@ -4408,10 +4616,12 @@
 			  ]
 			],
 			"dep": 35,
-			"ar": 37
+			"ar": 37,
+			"len": 94,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE1",
+			"nom": "DRAYE1",
 			"coords": [
 			  [
 				1081,
@@ -4423,10 +4633,12 @@
 			  ]
 			],
 			"dep": 37,
-			"ar": 38
+			"ar": 38,
+			"len": 8,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE2",
+			"nom": "DRAYE2",
 			"coords": [
 			  [
 				1078,
@@ -4442,10 +4654,12 @@
 			  ]
 			],
 			"dep": 38,
-			"ar": 39
+			"ar": 39,
+			"len": 23,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE3",
+			"nom": "DRAYE3",
 			"coords": [
 			  [
 				1071,
@@ -4461,10 +4675,12 @@
 			  ]
 			],
 			"dep": 39,
-			"ar": 40
+			"ar": 40,
+			"len": 33,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE4",
+			"nom": "DRAYE4",
 			"coords": [
 			  [
 				1068,
@@ -4500,10 +4716,12 @@
 			  ]
 			],
 			"dep": 40,
-			"ar": 41
+			"ar": 41,
+			"len": 92,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE5",
+			"nom": "DRAYE5",
 			"coords": [
 			  [
 				1002,
@@ -4519,10 +4737,12 @@
 			  ]
 			],
 			"dep": 41,
-			"ar": 42
+			"ar": 42,
+			"len": 33,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE6",
+			"nom": "DRAYE6",
 			"coords": [
 			  [
 				977,
@@ -4534,10 +4754,12 @@
 			  ]
 			],
 			"dep": 42,
-			"ar": 43
+			"ar": 43,
+			"len": 22,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE7",
+			"nom": "DRAYE7",
 			"coords": [
 			  [
 				985,
@@ -4577,10 +4799,12 @@
 			  ]
 			],
 			"dep": 43,
-			"ar": 44
+			"ar": 44,
+			"len": 114,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE8",
+			"nom": "DRAYE8",
 			"coords": [
 			  [
 				988,
@@ -4624,10 +4848,12 @@
 			  ]
 			],
 			"dep": 43,
-			"ar": 44
+			"ar": 44,
+			"len": 119,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R DRAYE9",
+			"nom": "DRAYE9",
 			"coords": [
 			  [
 				1013,
@@ -4647,10 +4873,12 @@
 			  ]
 			],
 			"dep": 44,
-			"ar": 135
+			"ar": 135,
+			"len": 41,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "V 3CROIX2",
+			"nom": "3CROIX2",
 			"coords": [
 			  [
 				1066,
@@ -4682,10 +4910,12 @@
 			  ]
 			],
 			"dep": 40,
-			"ar": 136
+			"ar": 136,
+			"len": 121,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V 3CROIX3",
+			"nom": "3CROIX3",
 			"coords": [
 			  [
 				959,
@@ -4705,10 +4935,12 @@
 			  ]
 			],
 			"dep": 136,
-			"ar": 41
+			"ar": 41,
+			"len": 44,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V 3CROIX4",
+			"nom": "3CROIX4",
 			"coords": [
 			  [
 				1002,
@@ -4744,10 +4976,12 @@
 			  ]
 			],
 			"dep": 41,
-			"ar": 42
+			"ar": 42,
+			"len": 150,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "B EFTANIS1",
+			"nom": "EFTANIS1",
 			"coords": [
 			  [
 				1112,
@@ -4791,10 +5025,12 @@
 			  ]
 			],
 			"dep": 36,
-			"ar": 37
+			"ar": 37,
+			"len": 111,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B EFTANIS2",
+			"nom": "EFTANIS2",
 			"coords": [
 			  [
 				1082,
@@ -4806,10 +5042,12 @@
 			  ]
 			],
 			"dep": 37,
-			"ar": 30
+			"ar": 30,
+			"len": 24,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B EFTANIS3",
+			"nom": "EFTANIS3",
 			"coords": [
 			  [
 				1060,
@@ -4825,10 +5063,12 @@
 			  ]
 			],
 			"dep": 30,
-			"ar": 38
+			"ar": 38,
+			"len": 20,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B COMBES1",
+			"nom": "COMBES1",
 			"coords": [
 			  [
 				1056,
@@ -4844,10 +5084,12 @@
 			  ]
 			],
 			"dep": 30,
-			"ar": 34
+			"ar": 34,
+			"len": 19,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B COMBES",
+			"nom": "COMBES",
 			"coords": [
 			  [
 				1037,
@@ -4891,10 +5133,12 @@
 			  ]
 			],
 			"dep": 34,
-			"ar": 32
+			"ar": 32,
+			"len": 145,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B EFTANIS4",
+			"nom": "EFTANIS4",
 			"coords": [
 			  [
 				1059,
@@ -4934,10 +5178,12 @@
 			  ]
 			],
 			"dep": 30,
-			"ar": 32
+			"ar": 32,
+			"len": 171,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B COMBES2",
+			"nom": "COMBES2",
 			"coords": [
 			  [
 				957,
@@ -4957,10 +5203,12 @@
 			  ]
 			],
 			"dep": 32,
-			"ar": 136
+			"ar": 136,
+			"len": 28,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B FORET1",
+			"nom": "FORET1",
 			"coords": [
 			  [
 				1072,
@@ -4984,10 +5232,12 @@
 			  ]
 			],
 			"dep": 39,
-			"ar": 107
+			"ar": 107,
+			"len": 41,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B FORET2",
+			"nom": "FORET2",
 			"coords": [
 			  [
 				1087,
@@ -4999,10 +5249,12 @@
 			  ]
 			],
 			"dep": 107,
-			"ar": 40
+			"ar": 40,
+			"len": 17,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B FORET",
+			"nom": "FORET",
 			"coords": [
 			  [
 				1090,
@@ -5034,10 +5286,12 @@
 			  ]
 			],
 			"dep": 107,
-			"ar": 84
+			"ar": 84,
+			"len": 83,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B GENEPI",
+			"nom": "GENEPI",
 			"coords": [
 			  [
 				1080,
@@ -5053,10 +5307,12 @@
 			  ]
 			],
 			"dep": 38,
-			"ar": 117
+			"ar": 117,
+			"len": 54,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B FANGEAS",
+			"nom": "FANGEAS",
 			"coords": [
 			  [
 				1106,
@@ -5068,10 +5324,12 @@
 			  ]
 			],
 			"dep": 36,
-			"ar": 117
+			"ar": 117,
+			"len": 37,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B FANGEAS1",
+			"nom": "FANGEAS1",
 			"coords": [
 			  [
 				1133,
@@ -5083,10 +5341,12 @@
 			  ]
 			],
 			"dep": 117,
-			"ar": 82
+			"ar": 82,
+			"len": 22,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B FANGEAS2",
+			"nom": "FANGEAS2",
 			"coords": [
 			  [
 				1153,
@@ -5110,10 +5370,12 @@
 			  ]
 			],
 			"dep": 82,
-			"ar": 83
+			"ar": 83,
+			"len": 40,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ALPAGE",
+			"nom": "ALPAGE",
 			"coords": [
 			  [
 				1179,
@@ -5137,10 +5399,12 @@
 			  ]
 			],
 			"dep": 83,
-			"ar": 119
+			"ar": 119,
+			"len": 44,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B FANGEAS3",
+			"nom": "FANGEAS3",
 			"coords": [
 			  [
 				1181,
@@ -5156,10 +5420,12 @@
 			  ]
 			],
 			"dep": 83,
-			"ar": 66
+			"ar": 66,
+			"len": 35,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ALPAGE1",
+			"nom": "ALPAGE1",
 			"coords": [
 			  [
 				1204,
@@ -5179,10 +5445,12 @@
 			  ]
 			],
 			"dep": 66,
-			"ar": 119
+			"ar": 119,
+			"len": 47,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ALPAGE2",
+			"nom": "ALPAGE2",
 			"coords": [
 			  [
 				1156,
@@ -5202,10 +5470,12 @@
 			  ]
 			],
 			"dep": 119,
-			"ar": 84
+			"ar": 84,
+			"len": 27,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ALPAGE3",
+			"nom": "ALPAGE3",
 			"coords": [
 			  [
 				1207,
@@ -5217,10 +5487,12 @@
 			  ]
 			],
 			"dep": 66,
-			"ar": 112
+			"ar": 112,
+			"len": 16,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ALPAGE4",
+			"nom": "ALPAGE4",
 			"coords": [
 			  [
 				1221,
@@ -5248,10 +5520,12 @@
 			  ]
 			],
 			"dep": 112,
-			"ar": 65
+			"ar": 65,
+			"len": 69,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ALPAGE5",
+			"nom": "ALPAGE5",
 			"coords": [
 			  [
 				1223,
@@ -5279,10 +5553,12 @@
 			  ]
 			],
 			"dep": 112,
-			"ar": 65
+			"ar": 65,
+			"len": 79,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "R ROCHER DE LENFER",
+			"nom": "ROCHER DE LENFER",
 			"coords": [
 			  [
 				1106,
@@ -5310,10 +5586,12 @@
 			  ]
 			],
 			"dep": 36,
-			"ar": 80
+			"ar": 80,
+			"len": 104,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "N ISOLEE",
+			"nom": "ISOLEE",
 			"coords": [
 			  [
 				1186,
@@ -5401,10 +5679,12 @@
 			  ]
 			],
 			"dep": 79,
-			"ar": 80
+			"ar": 80,
+			"len": 256,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "R ECHAILLON",
+			"nom": "ECHAILLON",
 			"coords": [
 			  [
 				1104,
@@ -5452,10 +5732,12 @@
 			  ]
 			],
 			"dep": 36,
-			"ar": 65
+			"ar": 65,
+			"len": 215,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R ROCHER DE LENFER1",
+			"nom": "ROCHER DE LENFER1",
 			"coords": [
 			  [
 				1199,
@@ -5495,10 +5777,12 @@
 			  ]
 			],
 			"dep": 80,
-			"ar": 65
+			"ar": 65,
+			"len": 118,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "N AILEFROIDE",
+			"nom": "AILEFROIDE",
 			"coords": [
 			  [
 				1189,
@@ -5562,10 +5846,12 @@
 			  ]
 			],
 			"dep": 79,
-			"ar": 78
+			"ar": 78,
+			"len": 163,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "N CREUX DU LOUP",
+			"nom": "CREUX DU LOUP",
 			"coords": [
 			  [
 				1191,
@@ -5637,10 +5923,12 @@
 			  ]
 			],
 			"dep": 79,
-			"ar": 78
+			"ar": 78,
+			"len": 241,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "R CLOT GAUTHIER",
+			"nom": "CLOT GAUTHIER",
 			"coords": [
 			  [
 				1361,
@@ -5664,10 +5952,12 @@
 			  ]
 			],
 			"dep": 77,
-			"ar": 125
+			"ar": 125,
+			"len": 60,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CLOT GAUTHIER1",
+			"nom": "CLOT GAUTHIER1",
 			"coords": [
 			  [
 				1305,
@@ -5683,10 +5973,12 @@
 			  ]
 			],
 			"dep": 125,
-			"ar": 78
+			"ar": 78,
+			"len": 22,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CLOT GAUTHIER2",
+			"nom": "CLOT GAUTHIER2",
 			"coords": [
 			  [
 				1281,
@@ -5730,10 +6022,12 @@
 			  ]
 			],
 			"dep": 78,
-			"ar": 109
+			"ar": 109,
+			"len": 88,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CLOT GAUTHIER3",
+			"nom": "CLOT GAUTHIER3",
 			"coords": [
 			  [
 				1256,
@@ -5745,10 +6039,12 @@
 			  ]
 			],
 			"dep": 109,
-			"ar": 124
+			"ar": 124,
+			"len": 37,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CLOT GAUTHIER4",
+			"nom": "CLOT GAUTHIER4",
 			"coords": [
 			  [
 				1256,
@@ -5772,10 +6068,12 @@
 			  ]
 			],
 			"dep": 109,
-			"ar": 138
+			"ar": 138,
+			"len": 62,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CLOT GAUTHIER5",
+			"nom": "CLOT GAUTHIER5",
 			"coords": [
 			  [
 				1289,
@@ -5799,10 +6097,12 @@
 			  ]
 			],
 			"dep": 124,
-			"ar": 138
+			"ar": 138,
+			"len": 38,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CLOT GAUTHIER6",
+			"nom": "CLOT GAUTHIER6",
 			"coords": [
 			  [
 				1289,
@@ -5822,10 +6122,12 @@
 			  ]
 			],
 			"dep": 138,
-			"ar": 65
+			"ar": 65,
+			"len": 28,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "N SUPER DRAYE",
+			"nom": "SUPER DRAYE",
 			"coords": [
 			  [
 				1307,
@@ -5869,10 +6171,12 @@
 			  ]
 			],
 			"dep": 125,
-			"ar": 124
+			"ar": 124,
+			"len": 104,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "B GOULET1",
+			"nom": "GOULET1",
 			"coords": [
 			  [
 				1365,
@@ -5892,10 +6196,12 @@
 			  ]
 			],
 			"dep": 77,
-			"ar": 72
+			"ar": 72,
+			"len": 40,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B GOULET2",
+			"nom": "GOULET2",
 			"coords": [
 			  [
 				1402,
@@ -5911,10 +6217,12 @@
 			  ]
 			],
 			"dep": 72,
-			"ar": 71
+			"ar": 71,
+			"len": 38,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B SELIETTES",
+			"nom": "SELIETTES",
 			"coords": [
 			  [
 				1402,
@@ -5950,10 +6258,12 @@
 			  ]
 			],
 			"dep": 72,
-			"ar": 76
+			"ar": 76,
+			"len": 100,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B GOULET2",
+			"nom": "GOULET2",
 			"coords": [
 			  [
 				1435,
@@ -5977,10 +6287,12 @@
 			  ]
 			],
 			"dep": 71,
-			"ar": 74
+			"ar": 74,
+			"len": 56,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B GOULET3",
+			"nom": "GOULET3",
 			"coords": [
 			  [
 				1437,
@@ -6016,10 +6328,12 @@
 			  ]
 			],
 			"dep": 71,
-			"ar": 74
+			"ar": 74,
+			"len": 59,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B CABANE",
+			"nom": "CABANE",
 			"coords": [
 			  [
 				1422,
@@ -6035,10 +6349,12 @@
 			  ]
 			],
 			"dep": 75,
-			"ar": 74
+			"ar": 74,
+			"len": 26,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B CABANE1",
+			"nom": "CABANE1",
 			"coords": [
 			  [
 				1422,
@@ -6054,10 +6370,12 @@
 			  ]
 			],
 			"dep": 75,
-			"ar": 76
+			"ar": 76,
+			"len": 25,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B SELIETTES1",
+			"nom": "SELIETTES1",
 			"coords": [
 			  [
 				1398,
@@ -6101,10 +6419,12 @@
 			  ]
 			],
 			"dep": 76,
-			"ar": 65
+			"ar": 65,
+			"len": 132,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B PRE JEANNE",
+			"nom": "PRE JEANNE",
 			"coords": [
 			  [
 				1496,
@@ -6136,10 +6456,12 @@
 			  ]
 			],
 			"dep": 69,
-			"ar": 71
+			"ar": 71,
+			"len": 82,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "V CHAMEANT",
+			"nom": "CHAMEANT",
 			"coords": [
 			  [
 				1497,
@@ -6203,10 +6525,12 @@
 			  ]
 			],
 			"dep": 69,
-			"ar": 74
+			"ar": 74,
+			"len": 189,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V CHAMEANT1",
+			"nom": "CHAMEANT1",
 			"coords": [
 			  [
 				1500,
@@ -6250,10 +6574,12 @@
 			  ]
 			],
 			"dep": 70,
-			"ar": 74
+			"ar": 74,
+			"len": 100,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "B GOULET4",
+			"nom": "GOULET4",
 			"coords": [
 			  [
 				1450,
@@ -6301,10 +6627,12 @@
 			  ]
 			],
 			"dep": 74,
-			"ar": 63
+			"ar": 63,
+			"len": 145,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "V BARRES",
+			"nom": "BARRES",
 			"coords": [
 			  [
 				1450,
@@ -6364,10 +6692,12 @@
 			  ]
 			],
 			"dep": 74,
-			"ar": 142
+			"ar": 142,
+			"len": 187,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V BARRES1",
+			"nom": "BARRES1",
 			"coords": [
 			  [
 				1453,
@@ -6383,10 +6713,12 @@
 			  ]
 			],
 			"dep": 74,
-			"ar": 73
+			"ar": 73,
+			"len": 37,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "B GOULET5",
+			"nom": "GOULET5",
 			"coords": [
 			  [
 				1345,
@@ -6410,10 +6742,12 @@
 			  ]
 			],
 			"dep": 63,
-			"ar": 62
+			"ar": 62,
+			"len": 35,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B GOULET6",
+			"nom": "GOULET6",
 			"coords": [
 			  [
 				1355,
@@ -6429,10 +6763,12 @@
 			  ]
 			],
 			"dep": 62,
-			"ar": 142
+			"ar": 142,
+			"len": 26,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B GOULET7",
+			"nom": "GOULET7",
 			"coords": [
 			  [
 				1381,
@@ -6460,10 +6796,12 @@
 			  ]
 			],
 			"dep": 142,
-			"ar": 60
+			"ar": 60,
+			"len": 44,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B GOULET8",
+			"nom": "GOULET8",
 			"coords": [
 			  [
 				1350,
@@ -6483,10 +6821,12 @@
 			  ]
 			],
 			"dep": 60,
-			"ar": 143
+			"ar": 143,
+			"len": 78,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "R BOIS1",
+			"nom": "BOIS1",
 			"coords": [
 			  [
 				1203,
@@ -6514,10 +6854,12 @@
 			  ]
 			],
 			"dep": 66,
-			"ar": 67
+			"ar": 67,
+			"len": 40,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R BOIS",
+			"nom": "BOIS",
 			"coords": [
 			  [
 				1207,
@@ -6545,10 +6887,12 @@
 			  ]
 			],
 			"dep": 67,
-			"ar": 61
+			"ar": 61,
+			"len": 106,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R BOIS2",
+			"nom": "BOIS2",
 			"coords": [
 			  [
 				1349,
@@ -6568,10 +6912,12 @@
 			  ]
 			],
 			"dep": 60,
-			"ar": 61
+			"ar": 61,
+			"len": 45,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R LACETS",
+			"nom": "LACETS",
 			"coords": [
 			  [
 				1304,
@@ -6607,10 +6953,12 @@
 			  ]
 			],
 			"dep": 61,
-			"ar": 111
+			"ar": 111,
+			"len": 116,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "N CASSE DU BOEUF",
+			"nom": "CASSE DU BOEUF",
 			"coords": [
 			  [
 				1207,
@@ -6686,10 +7034,12 @@
 			  ]
 			],
 			"dep": 67,
-			"ar": 114
+			"ar": 114,
+			"len": 257,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "N CASSE DU BOEUF1",
+			"nom": "CASSE DU BOEUF1",
 			"coords": [
 			  [
 				1269,
@@ -6741,10 +7091,12 @@
 			  ]
 			],
 			"dep": 114,
-			"ar": 115
+			"ar": 115,
+			"len": 156,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "N CASSE DU BOEUF2",
+			"nom": "CASSE DU BOEUF2",
 			"coords": [
 			  [
 				1303,
@@ -6760,10 +7112,12 @@
 			  ]
 			],
 			"dep": 115,
-			"ar": 53
+			"ar": 53,
+			"len": 32,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "R BEZ1",
+			"nom": "BEZ1",
 			"coords": [
 			  [
 				1412,
@@ -6783,10 +7137,12 @@
 			  ]
 			],
 			"dep": 59,
-			"ar": 111
+			"ar": 111,
+			"len": 41,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R BEZ2",
+			"nom": "BEZ2",
 			"coords": [
 			  [
 				1395,
@@ -6818,10 +7174,12 @@
 			  ]
 			],
 			"dep": 111,
-			"ar": 57
+			"ar": 57,
+			"len": 58,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R BEZ3",
+			"nom": "BEZ3",
 			"coords": [
 			  [
 				1409,
@@ -6869,10 +7227,12 @@
 			  ]
 			],
 			"dep": 57,
-			"ar": 56
+			"ar": 56,
+			"len": 112,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R BEZ4",
+			"nom": "BEZ4",
 			"coords": [
 			  [
 				1427,
@@ -6904,10 +7264,12 @@
 			  ]
 			],
 			"dep": 56,
-			"ar": 55
+			"ar": 55,
+			"len": 75,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R BEZ",
+			"nom": "BEZ",
 			"coords": [
 			  [
 				1475,
@@ -6939,10 +7301,12 @@
 			  ]
 			],
 			"dep": 55,
-			"ar": 54
+			"ar": 54,
+			"len": 86,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CUCUMELLE",
+			"nom": "CUCUMELLE",
 			"coords": [
 			  [
 				1744,
@@ -7070,10 +7434,12 @@
 			  ]
 			],
 			"dep": 68,
-			"ar": 143
+			"ar": 143,
+			"len": 424,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "B MARTEAU",
+			"nom": "MARTEAU",
 			"coords": [
 			  [
 				1129,
@@ -7101,10 +7467,12 @@
 			  ]
 			],
 			"dep": 85,
-			"ar": 86
+			"ar": 86,
+			"len": 61,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MARTEAU1",
+			"nom": "MARTEAU1",
 			"coords": [
 			  [
 				1151,
@@ -7120,10 +7488,12 @@
 			  ]
 			],
 			"dep": 84,
-			"ar": 85
+			"ar": 85,
+			"len": 25,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MARTEAU2",
+			"nom": "MARTEAU2",
 			"coords": [
 			  [
 				1128,
@@ -7147,10 +7517,12 @@
 			  ]
 			],
 			"dep": 85,
-			"ar": 108
+			"ar": 108,
+			"len": 59,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MARTEAU3",
+			"nom": "MARTEAU3",
 			"coords": [
 			  [
 				1103,
@@ -7166,10 +7538,12 @@
 			  ]
 			],
 			"dep": 108,
-			"ar": 86
+			"ar": 86,
+			"len": 43,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B METEZES",
+			"nom": "METEZES",
 			"coords": [
 			  [
 				1101,
@@ -7185,10 +7559,12 @@
 			  ]
 			],
 			"dep": 108,
-			"ar": 134
+			"ar": 134,
+			"len": 62,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B METEZES1",
+			"nom": "METEZES1",
 			"coords": [
 			  [
 				1078,
@@ -7212,10 +7588,12 @@
 			  ]
 			],
 			"dep": 134,
-			"ar": 45
+			"ar": 45,
+			"len": 64,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MARTEAU4",
+			"nom": "MARTEAU4",
 			"coords": [
 			  [
 				1145,
@@ -7235,10 +7613,12 @@
 			  ]
 			],
 			"dep": 86,
-			"ar": 87
+			"ar": 87,
+			"len": 32,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MARTEAU5",
+			"nom": "MARTEAU5",
 			"coords": [
 			  [
 				1168,
@@ -7250,10 +7630,12 @@
 			  ]
 			],
 			"dep": 87,
-			"ar": 51
+			"ar": 51,
+			"len": 24,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MARTEAU6",
+			"nom": "MARTEAU6",
 			"coords": [
 			  [
 				1164,
@@ -7301,10 +7683,12 @@
 			  ]
 			],
 			"dep": 51,
-			"ar": 114
+			"ar": 114,
+			"len": 134,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MARTEAU7",
+			"nom": "MARTEAU7",
 			"coords": [
 			  [
 				1271,
@@ -7364,10 +7748,12 @@
 			  ]
 			],
 			"dep": 114,
-			"ar": 115
+			"ar": 115,
+			"len": 171,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B MARTEAU8",
+			"nom": "MARTEAU8",
 			"coords": [
 			  [
 				1301,
@@ -7391,10 +7777,12 @@
 			  ]
 			],
 			"dep": 115,
-			"ar": 52
+			"ar": 52,
+			"len": 58,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "V LEVRE BLANC",
+			"nom": "LEVRE BLANC",
 			"coords": [
 			  [
 				1162,
@@ -7426,10 +7814,12 @@
 			  ]
 			],
 			"dep": 51,
-			"ar": 135
+			"ar": 135,
+			"len": 158,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V ROUTE ARAVET",
+			"nom": "ROUTE ARAVET",
 			"coords": [
 			  [
 				1159,
@@ -7501,10 +7891,12 @@
 			  ]
 			],
 			"dep": 51,
-			"ar": 46
+			"ar": 46,
+			"len": 339,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V CHENE",
+			"nom": "CHENE",
 			"coords": [
 			  [
 				1029,
@@ -7524,10 +7916,12 @@
 			  ]
 			],
 			"dep": 135,
-			"ar": 46
+			"ar": 46,
+			"len": 61,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V ROUTE ARAVET1",
+			"nom": "ROUTE ARAVET1",
 			"coords": [
 			  [
 				1086,
@@ -7619,10 +8013,12 @@
 			  ]
 			],
 			"dep": 46,
-			"ar": 52
+			"ar": 52,
+			"len": 467,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "R DEVAL BOB",
+			"nom": "DEVAL BOB",
 			"coords": [
 			  [
 				1161,
@@ -7750,10 +8146,12 @@
 			  ]
 			],
 			"dep": 51,
-			"ar": 52
+			"ar": 52,
+			"len": 648,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "B VALLONS1",
+			"nom": "VALLONS1",
 			"coords": [
 			  [
 				927,
@@ -7773,10 +8171,12 @@
 			  ]
 			],
 			"dep": 95,
-			"ar": 135
+			"ar": 135,
+			"len": 107,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B VALLONS2",
+			"nom": "VALLONS2",
 			"coords": [
 			  [
 				926,
@@ -7800,10 +8200,12 @@
 			  ]
 			],
 			"dep": 95,
-			"ar": 118
+			"ar": 118,
+			"len": 50,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "V BRIANCE",
+			"nom": "BRIANCE",
 			"coords": [
 			  [
 				955,
@@ -7847,10 +8249,12 @@
 			  ]
 			],
 			"dep": 118,
-			"ar": 47
+			"ar": 47,
+			"len": 194,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V BRIANCE1",
+			"nom": "BRIANCE1",
 			"coords": [
 			  [
 				1022,
@@ -7866,10 +8270,12 @@
 			  ]
 			],
 			"dep": 47,
-			"ar": 48
+			"ar": 48,
+			"len": 21,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V BRIANCE2",
+			"nom": "BRIANCE2",
 			"coords": [
 			  [
 				1046,
@@ -7913,10 +8319,12 @@
 			  ]
 			],
 			"dep": 48,
-			"ar": 49
+			"ar": 49,
+			"len": 155,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V BRIANCE5",
+			"nom": "BRIANCE5",
 			"coords": [
 			  [
 				903,
@@ -7992,10 +8400,12 @@
 			  ]
 			],
 			"dep": 121,
-			"ar": 122
+			"ar": 122,
+			"len": 360,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V BRIANCE6",
+			"nom": "BRIANCE6",
 			"coords": [
 			  [
 				940,
@@ -8043,10 +8453,12 @@
 			  ]
 			],
 			"dep": 122,
-			"ar": 50
+			"ar": 50,
+			"len": 239,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "N ALPAGE",
+			"nom": "ALPAGE",
 			"coords": [
 			  [
 				1203,
@@ -8066,10 +8478,12 @@
 			  ]
 			],
 			"dep": 66,
-			"ar": 67
+			"ar": 67,
+			"len": 28,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "N PYLONES",
+			"nom": "PYLONES",
 			"coords": [
 			  [
 				1066,
@@ -8141,10 +8555,12 @@
 			  ]
 			],
 			"dep": 40,
-			"ar": 45
+			"ar": 45,
+			"len": 221,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "B METERES1",
+			"nom": "METERES1",
 			"coords": [
 			  [
 				1041,
@@ -8160,10 +8576,12 @@
 			  ]
 			],
 			"dep": 45,
-			"ar": 135
+			"ar": 135,
+			"len": 33,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "N PYLONES1",
+			"nom": "PYLONES1",
 			"coords": [
 			  [
 				1026,
@@ -8211,10 +8629,12 @@
 			  ]
 			],
 			"dep": 135,
-			"ar": 47
+			"ar": 47,
+			"len": 105,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "N LUC ALPHAND1",
+			"nom": "LUC ALPHAND1",
 			"coords": [
 			  [
 				1018,
@@ -8238,10 +8658,12 @@
 			  ]
 			],
 			"dep": 47,
-			"ar": 120
+			"ar": 120,
+			"len": 37,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "N LUC ALPHAND",
+			"nom": "LUC ALPHAND",
 			"coords": [
 			  [
 				1013,
@@ -8253,10 +8675,12 @@
 			  ]
 			],
 			"dep": 120,
-			"ar": 121
+			"ar": 121,
+			"len": 37,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "N LUC ALPHAND2",
+			"nom": "LUC ALPHAND2",
 			"coords": [
 			  [
 				997,
@@ -8284,10 +8708,12 @@
 			  ]
 			],
 			"dep": 121,
-			"ar": 122
+			"ar": 122,
+			"len": 71,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "N LUC ALPHAND3",
+			"nom": "LUC ALPHAND3",
 			"coords": [
 			  [
 				939,
@@ -8327,10 +8753,12 @@
 			  ]
 			],
 			"dep": 122,
-			"ar": 50
+			"ar": 50,
+			"len": 74,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "B VALLONS2",
+			"nom": "VALLONS2",
 			"coords": [
 			  [
 				1038,
@@ -8386,10 +8814,12 @@
 			  ]
 			],
 			"dep": 34,
-			"ar": 29
+			"ar": 29,
+			"len": 245,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "R PRAIRIES",
+			"nom": "PRAIRIES",
 			"coords": [
 			  [
 				1436,
@@ -8413,10 +8843,12 @@
 			  ]
 			],
 			"dep": 58,
-			"ar": 57
+			"ar": 57,
+			"len": 61,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "V ROUTE FREJUS",
+			"nom": "ROUTE FREJUS",
 			"coords": [
 			  [
 				1429,
@@ -8440,10 +8872,12 @@
 			  ]
 			],
 			"dep": 143,
-			"ar": 58
+			"ar": 58,
+			"len": 40,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V ROUTE FREJUS1",
+			"nom": "ROUTE FREJUS1",
 			"coords": [
 			  [
 				1437,
@@ -8551,10 +8985,12 @@
 			  ]
 			],
 			"dep": 58,
-			"ar": 56
+			"ar": 56,
+			"len": 347,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V ROUTE FREJUS2",
+			"nom": "ROUTE FREJUS2",
 			"coords": [
 			  [
 				1425,
@@ -8598,10 +9034,12 @@
 			  ]
 			],
 			"dep": 56,
-			"ar": 55
+			"ar": 55,
+			"len": 118,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V ROUTE FREJUS3",
+			"nom": "ROUTE FREJUS3",
 			"coords": [
 			  [
 				1475,
@@ -8657,10 +9095,12 @@
 			  ]
 			],
 			"dep": 55,
-			"ar": 53
+			"ar": 53,
+			"len": 175,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "B TRAVERSE1",
+			"nom": "TRAVERSE1",
 			"coords": [
 			  [
 				1291,
@@ -8676,10 +9116,12 @@
 			  ]
 			],
 			"dep": 65,
-			"ar": 64
+			"ar": 64,
+			"len": 26,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B TRAVERSE",
+			"nom": "TRAVERSE",
 			"coords": [
 			  [
 				1282,
@@ -8711,10 +9153,12 @@
 			  ]
 			],
 			"dep": 64,
-			"ar": 60
+			"ar": 60,
+			"len": 86,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B EYCHAUDA1",
+			"nom": "EYCHAUDA1",
 			"coords": [
 			  [
 				1747,
@@ -8742,10 +9186,12 @@
 			  ]
 			],
 			"dep": 68,
-			"ar": 126
+			"ar": 126,
+			"len": 41,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "N CHOUCAS",
+			"nom": "CHOUCAS",
 			"coords": [
 			  [
 				1779,
@@ -8773,10 +9219,12 @@
 			  ]
 			],
 			"dep": 126,
-			"ar": 132
+			"ar": 132,
+			"len": 120,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "B  EYCHAUDA",
+			"nom": "EYCHAUDA",
 			"coords": [
 			  [
 				1777,
@@ -8820,10 +9268,12 @@
 			  ]
 			],
 			"dep": 126,
-			"ar": 131
+			"ar": 131,
+			"len": 150,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "R YRET",
+			"nom": "YRET",
 			"coords": [
 			  [
 				1974,
@@ -8899,10 +9349,12 @@
 			  ]
 			],
 			"dep": 18,
-			"ar": 88
+			"ar": 88,
+			"len": 173,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R YRET1",
+			"nom": "YRET1",
 			"coords": [
 			  [
 				1955,
@@ -8926,10 +9378,12 @@
 			  ]
 			],
 			"dep": 88,
-			"ar": 133
+			"ar": 133,
+			"len": 58,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R YRET2",
+			"nom": "YRET2",
 			"coords": [
 			  [
 				1912,
@@ -8945,10 +9399,12 @@
 			  ]
 			],
 			"dep": 133,
-			"ar": 132
+			"ar": 132,
+			"len": 24,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R YRET3",
+			"nom": "YRET3",
 			"coords": [
 			  [
 				1913,
@@ -8968,10 +9424,12 @@
 			  ]
 			],
 			"dep": 133,
-			"ar": 131
+			"ar": 131,
+			"len": 22,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "B EYCHAUDA2",
+			"nom": "EYCHAUDA2",
 			"coords": [
 			  [
 				1893,
@@ -8983,10 +9441,12 @@
 			  ]
 			],
 			"dep": 132,
-			"ar": 131
+			"ar": 131,
+			"len": 27,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B EYCHAUDA3",
+			"nom": "EYCHAUDA3",
 			"coords": [
 			  [
 				1924,
@@ -9022,10 +9482,12 @@
 			  ]
 			],
 			"dep": 131,
-			"ar": 89
+			"ar": 89,
+			"len": 109,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "N COL DU VENT",
+			"nom": "COL DU VENT",
 			"coords": [
 			  [
 				1975,
@@ -9097,10 +9559,12 @@
 			  ]
 			],
 			"dep": 18,
-			"ar": 88
+			"ar": 88,
+			"len": 187,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "B PAS DE LANE",
+			"nom": "PAS DE LANE",
 			"coords": [
 			  [
 				2189,
@@ -9136,10 +9600,12 @@
 			  ]
 			],
 			"dep": 90,
-			"ar": 110
+			"ar": 110,
+			"len": 146,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B PAS DE LANE1",
+			"nom": "PAS DE LANE1",
 			"coords": [
 			  [
 				2061,
@@ -9167,10 +9633,12 @@
 			  ]
 			],
 			"dep": 110,
-			"ar": 89
+			"ar": 89,
+			"len": 75,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B PAS DE LANE2",
+			"nom": "PAS DE LANE2",
 			"coords": [
 			  [
 				2064,
@@ -9214,10 +9682,12 @@
 			  ]
 			],
 			"dep": 110,
-			"ar": 91
+			"ar": 91,
+			"len": 98,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "R CIBOUIT",
+			"nom": "CIBOUIT",
 			"coords": [
 			  [
 				2189,
@@ -9277,10 +9747,12 @@
 			  ]
 			],
 			"dep": 90,
-			"ar": 91
+			"ar": 91,
+			"len": 204,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "N CIBOUIT",
+			"nom": "CIBOUIT",
 			"coords": [
 			  [
 				2190,
@@ -9376,10 +9848,12 @@
 			  ]
 			],
 			"dep": 90,
-			"ar": 91
+			"ar": 91,
+			"len": 210,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "B TETRAS",
+			"nom": "TETRAS",
 			"coords": [
 			  [
 				2021,
@@ -9411,10 +9885,12 @@
 			  ]
 			],
 			"dep": 89,
-			"ar": 91
+			"ar": 91,
+			"len": 88,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B TETRAS1  ",
+			"nom": "TETRAS1  ",
 			"coords": [
 			  [
 				2018,
@@ -9442,10 +9918,12 @@
 			  ]
 			],
 			"dep": 89,
-			"ar": 145
+			"ar": 145,
+			"len": 82,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B TETRAS2",
+			"nom": "TETRAS2",
 			"coords": [
 			  [
 				2100,
@@ -9461,10 +9939,12 @@
 			  ]
 			],
 			"dep": 91,
-			"ar": 145
+			"ar": 145,
+			"len": 16,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B COMBE RATEAU",
+			"nom": "COMBE RATEAU",
 			"coords": [
 			  [
 				2018,
@@ -9484,10 +9964,12 @@
 			  ]
 			],
 			"dep": 89,
-			"ar": 92
+			"ar": 92,
+			"len": 70,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B COMBE RATEAU1",
+			"nom": "COMBE RATEAU1",
 			"coords": [
 			  [
 				2087,
@@ -9507,10 +9989,12 @@
 			  ]
 			],
 			"dep": 145,
-			"ar": 92
+			"ar": 92,
+			"len": 28,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B TETRAS3",
+			"nom": "TETRAS3",
 			"coords": [
 			  [
 				2099,
@@ -9522,10 +10006,12 @@
 			  ]
 			],
 			"dep": 91,
-			"ar": 144
+			"ar": 144,
+			"len": 14,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B COMBE RATEAU2",
+			"nom": "COMBE RATEAU2",
 			"coords": [
 			  [
 				2058,
@@ -9537,10 +10023,12 @@
 			  ]
 			],
 			"dep": 92,
-			"ar": 141
+			"ar": 141,
+			"len": 12,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT1",
+			"nom": "ROCHAMOUT1",
 			"coords": [
 			  [
 				2113,
@@ -9568,10 +10056,12 @@
 			  ]
 			],
 			"dep": 144,
-			"ar": 141
+			"ar": 141,
+			"len": 56,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT",
+			"nom": "ROCHAMOUT",
 			"coords": [
 			  [
 				2068,
@@ -9587,10 +10077,12 @@
 			  ]
 			],
 			"dep": 141,
-			"ar": 140
+			"ar": 140,
+			"len": 53,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT2",
+			"nom": "ROCHAMOUT2",
 			"coords": [
 			  [
 				2028,
@@ -9606,10 +10098,12 @@
 			  ]
 			],
 			"dep": 93,
-			"ar": 140
+			"ar": 140,
+			"len": 16,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT3",
+			"nom": "ROCHAMOUT3",
 			"coords": [
 			  [
 				2039,
@@ -9629,10 +10123,12 @@
 			  ]
 			],
 			"dep": 140,
-			"ar": 94
+			"ar": 94,
+			"len": 30,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT4",
+			"nom": "ROCHAMOUT4",
 			"coords": [
 			  [
 				2031,
@@ -9656,10 +10152,12 @@
 			  ]
 			],
 			"dep": 94,
-			"ar": 127
+			"ar": 127,
+			"len": 95,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT5",
+			"nom": "ROCHAMOUT5",
 			"coords": [
 			  [
 				1939,
@@ -9675,10 +10173,12 @@
 			  ]
 			],
 			"dep": 127,
-			"ar": 103
+			"ar": 103,
+			"len": 41,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT6",
+			"nom": "ROCHAMOUT6",
 			"coords": [
 			  [
 				1911,
@@ -9698,10 +10198,12 @@
 			  ]
 			],
 			"dep": 103,
-			"ar": 102
+			"ar": 102,
+			"len": 58,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT7",
+			"nom": "ROCHAMOUT7",
 			"coords": [
 			  [
 				1896,
@@ -9729,10 +10231,12 @@
 			  ]
 			],
 			"dep": 103,
-			"ar": 102
+			"ar": 102,
+			"len": 53,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT8",
+			"nom": "ROCHAMOUT8",
 			"coords": [
 			  [
 				1941,
@@ -9776,10 +10280,12 @@
 			  ]
 			],
 			"dep": 127,
-			"ar": 146
+			"ar": 146,
+			"len": 98,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT9",
+			"nom": "ROCHAMOUT9",
 			"coords": [
 			  [
 				1882,
@@ -9791,10 +10297,12 @@
 			  ]
 			],
 			"dep": 102,
-			"ar": 146
+			"ar": 146,
+			"len": 18,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT10",
+			"nom": "ROCHAMOUT10",
 			"coords": [
 			  [
 				1898,
@@ -9810,10 +10318,12 @@
 			  ]
 			],
 			"dep": 146,
-			"ar": 113
+			"ar": 113,
+			"len": 24,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT11",
+			"nom": "ROCHAMOUT11",
 			"coords": [
 			  [
 				1899,
@@ -9833,10 +10343,12 @@
 			  ]
 			],
 			"dep": 146,
-			"ar": 101
+			"ar": 101,
+			"len": 46,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT12",
+			"nom": "ROCHAMOUT12",
 			"coords": [
 			  [
 				1902,
@@ -9848,10 +10360,12 @@
 			  ]
 			],
 			"dep": 113,
-			"ar": 101
+			"ar": 101,
+			"len": 39,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT13",
+			"nom": "ROCHAMOUT13",
 			"coords": [
 			  [
 				1901,
@@ -9923,10 +10437,12 @@
 			  ]
 			],
 			"dep": 113,
-			"ar": 128
+			"ar": 128,
+			"len": 267,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT14",
+			"nom": "ROCHAMOUT14",
 			"coords": [
 			  [
 				1901,
@@ -10022,10 +10538,12 @@
 			  ]
 			],
 			"dep": 113,
-			"ar": 106
+			"ar": 106,
+			"len": 382,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT15",
+			"nom": "ROCHAMOUT15",
 			"coords": [
 			  [
 				2036,
@@ -10045,10 +10563,12 @@
 			  ]
 			],
 			"dep": 128,
-			"ar": 129
+			"ar": 129,
+			"len": 31,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B ROCHAMOUT16",
+			"nom": "ROCHAMOUT16",
 			"coords": [
 			  [
 				2036,
@@ -10080,10 +10600,12 @@
 			  ]
 			],
 			"dep": 129,
-			"ar": 106
+			"ar": 106,
+			"len": 81,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "R CORVARIA",
+			"nom": "CORVARIA",
 			"coords": [
 			  [
 				2114,
@@ -10151,10 +10673,12 @@
 			  ]
 			],
 			"dep": 144,
-			"ar": 96
+			"ar": 96,
+			"len": 203,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CORVARIA1",
+			"nom": "CORVARIA1",
 			"coords": [
 			  [
 				2046,
@@ -10174,10 +10698,12 @@
 			  ]
 			],
 			"dep": 96,
-			"ar": 99
+			"ar": 99,
+			"len": 45,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CORVARIA2",
+			"nom": "CORVARIA2",
 			"coords": [
 			  [
 				2038,
@@ -10197,10 +10723,12 @@
 			  ]
 			],
 			"dep": 99,
-			"ar": 100
+			"ar": 100,
+			"len": 30,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R AYA",
+			"nom": "AYA",
 			"coords": [
 			  [
 				2033,
@@ -10228,10 +10756,12 @@
 			  ]
 			],
 			"dep": 94,
-			"ar": 81
+			"ar": 81,
+			"len": 64,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R AYA1",
+			"nom": "AYA1",
 			"coords": [
 			  [
 				1999,
@@ -10247,10 +10777,12 @@
 			  ]
 			],
 			"dep": 81,
-			"ar": 97
+			"ar": 97,
+			"len": 25,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R AYA2",
+			"nom": "AYA2",
 			"coords": [
 			  [
 				1998,
@@ -10270,10 +10802,12 @@
 			  ]
 			],
 			"dep": 81,
-			"ar": 101
+			"ar": 101,
+			"len": 78,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R AYA3",
+			"nom": "AYA3",
 			"coords": [
 			  [
 				1943,
@@ -10289,10 +10823,12 @@
 			  ]
 			],
 			"dep": 101,
-			"ar": 130
+			"ar": 130,
+			"len": 47,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R AYA4",
+			"nom": "AYA4",
 			"coords": [
 			  [
 				1991,
@@ -10312,10 +10848,12 @@
 			  ]
 			],
 			"dep": 97,
-			"ar": 130
+			"ar": 130,
+			"len": 35,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "B AYA",
+			"nom": "AYA",
 			"coords": [
 			  [
 				2001,
@@ -10331,10 +10869,12 @@
 			  ]
 			],
 			"dep": 81,
-			"ar": 96
+			"ar": 96,
+			"len": 44,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B AYA1",
+			"nom": "AYA1",
 			"coords": [
 			  [
 				2043,
@@ -10354,10 +10894,12 @@
 			  ]
 			],
 			"dep": 96,
-			"ar": 97
+			"ar": 97,
+			"len": 55,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "B AYA2",
+			"nom": "AYA2",
 			"coords": [
 			  [
 				1991,
@@ -10385,10 +10927,12 @@
 			  ]
 			],
 			"dep": 97,
-			"ar": 101
+			"ar": 101,
+			"len": 62,
+			"couleur": "B"
 		  },
 		  {
-			"nom": "R CLOT GAILLARD",
+			"nom": "CLOT GAILLARD",
 			"coords": [
 			  [
 				2118,
@@ -10440,10 +10984,12 @@
 			  ]
 			],
 			"dep": 144,
-			"ar": 98
+			"ar": 98,
+			"len": 182,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R CLOT GAILLARD1",
+			"nom": "CLOT GAILLARD1",
 			"coords": [
 			  [
 				2099,
@@ -10527,10 +11073,12 @@
 			  ]
 			],
 			"dep": 98,
-			"ar": 105
+			"ar": 105,
+			"len": 281,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R BRETELLE CORVARIA",
+			"nom": "BRETELLE CORVARIA",
 			"coords": [
 			  [
 				2099,
@@ -10570,10 +11118,12 @@
 			  ]
 			],
 			"dep": 98,
-			"ar": 99
+			"ar": 99,
+			"len": 98,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "V ROUTE DES ESOAGNOLS1  ",
+			"nom": "ROUTE DES ESOAGNOLS1  ",
 			"coords": [
 			  [
 				2036,
@@ -10589,10 +11139,12 @@
 			  ]
 			],
 			"dep": 128,
-			"ar": 105
+			"ar": 105,
+			"len": 29,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V ROUTE DES ESOAGNOLS",
+			"nom": "ROUTE DES ESOAGNOLS",
 			"coords": [
 			  [
 				2063,
@@ -10652,10 +11204,12 @@
 			  ]
 			],
 			"dep": 105,
-			"ar": 104
+			"ar": 104,
+			"len": 192,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "V ROUTE DES ESOAGNOLS2",
+			"nom": "ROUTE DES ESOAGNOLS2",
 			"coords": [
 			  [
 				2242,
@@ -10707,10 +11261,12 @@
 			  ]
 			],
 			"dep": 104,
-			"ar": 106
+			"ar": 106,
+			"len": 185,
+			"couleur": "V"
 		  },
 		  {
-			"nom": "N TEBUC",
+			"nom": "TEBUC",
 			"coords": [
 			  [
 				2097,
@@ -10850,10 +11406,12 @@
 			  ]
 			],
 			"dep": 91,
-			"ar": 104
+			"ar": 104,
+			"len": 484,
+			"couleur": "N"
 		  },
 		  {
-			"nom": "R CHAUME",
+			"nom": "CHAUME",
 			"coords": [
 			  [
 				2025,
@@ -10897,10 +11455,12 @@
 			  ]
 			],
 			"dep": 93,
-			"ar": 103
+			"ar": 103,
+			"len": 152,
+			"couleur": "R"
 		  },
 		  {
-			"nom": "R STADE",
+			"nom": "STADE",
 			"coords": [
 			  [
 				2027,
@@ -10948,7 +11508,9 @@
 			  ]
 			],
 			"dep": 93,
-			"ar": 127
+			"ar": 127,
+			"len": 113,
+			"couleur": "R"
 		  }
 		]
 }
