@@ -5,7 +5,7 @@ var changed = false;
 var leftShow = 0, topShow = 0, zoom = 1.0;
 function preload() {
 	imagePiste = loadImage("data/piste.png");
-	dataGraph  = loadJSON("data/finalData.json");
+	dataGraph  = loadJSON("data/finalDataOnceRevised.json");
 }
 var dep = 1;
 var ar = 107;
@@ -87,9 +87,9 @@ function doubleClicked(){
 			var ex = dep;
 			dep = ar;
 			ar = i;
+			console.log(ar);
 			if(ar == dep)
 				ar = ex;
-			console.log(ar);
 			return;
 		}
 	}
