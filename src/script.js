@@ -118,7 +118,10 @@ function showArc(dp, ar){
 		case'V':stroke(0,255,0);break;
 		case'B':stroke(0,0,255);break;
 		case'N':stroke(0);break;
-		default:stroke(255,255,0);
+		case'TELESKI':stroke(255,255,0);break;
+		case'TELESIEGE':stroke(0,255,255);break;
+		case'OEUF':stroke(255,0,255);break;
+		case'TELECABINE':stroke(255,255,255);break;
 	}
 	strokeWeight(3);
 	beginShape();

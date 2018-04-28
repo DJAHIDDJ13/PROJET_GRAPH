@@ -148,7 +148,7 @@
           ],
           "len": 260,
           "nom": "PROREL3",
-          "couleur": "SMOL"
+          "couleur": "OEUF"
         }
       ]
     },
@@ -196,7 +196,7 @@
           ],
           "len": 414,
           "nom": "PROREL2",
-          "couleur": "SMOL"
+          "couleur": "OEUF"
         },
         {
           "ar": 13,
@@ -264,7 +264,7 @@
           ],
           "len": 204,
           "nom": "STADE",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 13,
@@ -412,7 +412,7 @@
           ],
           "len": 210,
           "nom": "SERRE PELAT",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 3,
@@ -1024,7 +1024,7 @@
           ],
           "len": 44,
           "nom": "LOURON",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 1,
@@ -2420,7 +2420,7 @@
           ],
           "len": 317,
           "nom": "AIGUILLETTE",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 49,
@@ -2864,7 +2864,7 @@
           ],
           "len": 345,
           "nom": "PROREL",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 27,
@@ -2896,7 +2896,7 @@
           ],
           "len": 482,
           "nom": "BOIS DES COQS 1-2",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 25,
@@ -3088,7 +3088,7 @@
           ],
           "len": 80,
           "nom": "GRAND ALPE",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 33,
@@ -3104,7 +3104,7 @@
           ],
           "len": 115,
           "nom": "BEPLAT",
-          "couleur": "M"
+          "couleur": "TELESKI"
         }
       ]
     },
@@ -3144,7 +3144,7 @@
           ],
           "len": 242,
           "nom": "GRAND SERRE",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 136,
@@ -4500,7 +4500,7 @@
           ],
           "len": 172,
           "nom": "CHAMPCELLA",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 49,
@@ -4583,7 +4583,7 @@
           ],
           "len": 499,
           "nom": "RATIER",
-          "couleur": "SMOL"
+          "couleur": "OEUF"
         }
       ]
     },
@@ -4639,7 +4639,7 @@
           ],
           "len": 251,
           "nom": "FORET",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 114,
@@ -4979,7 +4979,7 @@
           ],
           "len": 262,
           "nom": "ARAVET",
-          "couleur": "SMOL"
+          "couleur": "OEUF"
         }
       ]
     },
@@ -5039,7 +5039,7 @@
           ],
           "len": 400,
           "nom": "CASSE DU BOUF",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 62,
@@ -5075,7 +5075,7 @@
           ],
           "len": 318,
           "nom": "FREJUS",
-          "couleur": "SMOL"
+          "couleur": "OEUF"
         }
       ]
     },
@@ -5119,7 +5119,7 @@
           ],
           "len": 246,
           "nom": "PONTRLAS",
-          "couleur": "BIG"
+          "couleur": "TELECABINE"
         }
       ]
     },
@@ -5351,7 +5351,7 @@
           ],
           "len": 148,
           "nom": "FREJUS",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 56,
@@ -5603,7 +5603,7 @@
           ],
           "len": 405,
           "nom": "VALLONS",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 111,
@@ -5711,7 +5711,7 @@
           ],
           "len": 125,
           "nom": "PRE DU BOIS",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 111,
@@ -5791,7 +5791,7 @@
           ],
           "len": 159,
           "nom": "CRETES",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 142,
@@ -5871,7 +5871,7 @@
           ],
           "len": 207,
           "nom": "COTE CHEVALIER",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 60,
@@ -5935,7 +5935,7 @@
           ],
           "len": 176,
           "nom": "CLOT GAUTHIER",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 64,
@@ -6694,7 +6694,7 @@
           ],
           "len": 85,
           "nom": "CLOT",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 69,
@@ -6714,7 +6714,7 @@
           ],
           "len": 121,
           "nom": "MEA",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 63,
@@ -7042,7 +7042,7 @@
           ],
           "len": 141,
           "nom": "EYCHAUDA",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 109,
@@ -7574,7 +7574,7 @@
           ],
           "len": 90,
           "nom": "ALPAGE",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 85,
@@ -8126,7 +8126,7 @@
           ],
           "len": 285,
           "nom": "YVRET",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 90,
@@ -8150,7 +8150,7 @@
           ],
           "len": 169,
           "nom": "CIBOUIT",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 131,
@@ -8182,7 +8182,7 @@
           ],
           "len": 199,
           "nom": "EYCHAUDA",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 145,
@@ -8682,7 +8682,7 @@
           ],
           "len": 166,
           "nom": "LAZIERES",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 99,
@@ -9009,7 +9009,7 @@
           ],
           "len": 175,
           "nom": "ETOILE",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 130,
@@ -9309,7 +9309,7 @@
           ],
           "len": 357,
           "nom": "RACHAS",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 81,
@@ -9341,7 +9341,7 @@
           ],
           "len": 207,
           "nom": "AYA",
-          "couleur": "M"
+          "couleur": "TELESKI"
         }
       ]
     },
@@ -10113,7 +10113,7 @@
           ],
           "len": 239,
           "nom": "ROCHET BLANC",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 15,
@@ -10133,7 +10133,7 @@
           ],
           "len": 138,
           "nom": "CROIX NOIRE",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 7,
@@ -10265,7 +10265,7 @@
           ],
           "len": 333,
           "nom": "COMBES",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 47,
@@ -11288,7 +11288,7 @@
           ],
           "len": 155,
           "nom": "CUCUMELLE",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 131,
@@ -11436,7 +11436,7 @@
           ],
           "len": 402,
           "nom": "SERRE CHEVALIER",
-          "couleur": "BIG"
+          "couleur": "TELECABINE"
         },
         {
           "ar": 40,
@@ -11464,7 +11464,7 @@
           ],
           "len": 242,
           "nom": "OREE DU BOIS",
-          "couleur": "M"
+          "couleur": "TELESIEGE"
         },
         {
           "ar": 46,
@@ -11804,7 +11804,7 @@
           ],
           "len": 177,
           "nom": "BARRES",
-          "couleur": "M"
+          "couleur": "TELESKI"
         },
         {
           "ar": 60,
