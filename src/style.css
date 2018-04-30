@@ -1,6 +1,92 @@
 
 body {
 	margin:0;
-	padding:0
+	padding:0;
+	background: #076a91
 }
 
+.div1 {
+	position: absolute;
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 10px 10px;
+	font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	left: 51%;
+	top: 62%;
+	height: 33%;
+	width: 46%;
+	border: 1px solid black;
+	overflow: auto;
+	direction: block
+}
+.time {
+	text-align: right;
+}
+.name {
+	text-align: left;
+}
+
+.time .name {
+	font-size: 30px;
+	display: inline-block
+}
+
+
+.can {
+	position: absolute;
+	top: 0%
+}
+.zoom {
+	font-size: 30px;
+	position: absolute;
+	width: 5%;
+	height: 7%;
+	text-align: center;
+	z-index: 1;
+	top: 53%
+}
+#zoom1 {
+	left: 95%
+}
+#zoom2 {
+	left: 90%
+}
+.search {
+	position: absolute;
+	left: 2%;
+	top: 62%;
+	width: 46%;
+	background-color: #FFFFFF;
+	padding:5px 5px;
+	font-family: "Lucida Console", "Lucida Sans Typewriter", monaco, "Bitstream Vera Sans Mono", monospace;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	overflow: auto;
+}
+
+#run {
+	position: relative;
+	top: 75%;
+	left: 5%;
+	width: 100%
+}
+#sel {
+	display: block;
+	font-size: 15px;
+	width: 100%
+}
+#check {
+	position: relative;
+}
+#checkLabel {
+	position: relative;
+}
+#run {
+	position: relative;
+	width: 90%;
+	font-size: 20px
+}

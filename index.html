@@ -6,8 +6,22 @@
 		<script src="addons/p5.min.js"></script>
 		<script src="addons/p5.dom.min.js"></script>
 		<script src="src/script.js"></script>
-		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="src/dijkstra.js"></script>
+		<script src="src/scroll.js"></script>
+		<link rel="stylesheet" type="text/css" href="src/style.css">
 	</head>
 	<body>
+		<button id='zoom1' class='zoom' onclick='zoomBy(-0.3,false)'>+</button>
+		<button id='zoom2' class='zoom' onclick='zoomBy(0.3,false)'>-</button>
+		<div class='search'>
+			<p>Selectionner votre niveau</p>
+			<select id='sel' onchange='route = dijkstra(dataGraph.graph, dep); show();'>
+				<option value='Debutant'>Debutant</option>
+				<option value='Expert'>Expert</option>
+			</select><br>
+			<input id='check' type='checkbox' onchange='show();'>
+			<label id='checkLabel'for='check'>Affiche sommets</label><br><br>
+			<button id='run' onclick='startSelecting();'>Selectionner depart et arrivée</button>
+		</div>
 	</body>
 </html>
