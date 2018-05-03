@@ -280,7 +280,7 @@
             ]
           ],
           "len": 204,
-          "nom": "STADE",
+          "nom": "STADE1",
           "couleur": "TELESKI"
         },
         "13": {
@@ -1309,7 +1309,7 @@
             ]
           ],
           "len": 32,
-          "nom": "PREVOUX1",
+          "nom": "PREVOUX2",
           "couleur": "R"
         }
       }
@@ -2149,7 +2149,7 @@
             ]
           ],
           "len": 30,
-          "nom": "EDUITS1",
+          "nom": "EDUITS2",
           "couleur": "R"
         }
       }
@@ -2192,7 +2192,7 @@
             ]
           ],
           "len": 317,
-          "nom": "AIGUILLETTE",
+          "nom": "AIGUILLETTE1",
           "couleur": "TELESKI"
         },
         "49": {
@@ -2979,7 +2979,7 @@
             ]
           ],
           "len": 126,
-          "nom": "GRAND SERRE",
+          "nom": "GRAND SERRE 1",
           "couleur": "V"
         }
       }
@@ -3046,7 +3046,7 @@
             ]
           ],
           "len": 245,
-          "nom": "VALLONS2",
+          "nom": "VALLONS3",
           "couleur": "B"
         },
         "32": {
@@ -3124,7 +3124,7 @@
             ]
           ],
           "len": 128,
-          "nom": "VALLONS2",
+          "nom": "VALLONS4",
           "couleur": "B"
         },
         "34": {
@@ -3668,7 +3668,7 @@
             ]
           ],
           "len": 121,
-          "nom": "3CROIX2",
+          "nom": "3CROIX3",
           "couleur": "V"
         }
       }
@@ -4941,7 +4941,7 @@
             ]
           ],
           "len": 148,
-          "nom": "FREJUS",
+          "nom": "FREJUS1",
           "couleur": "TELESKI"
         }
       }
@@ -5138,7 +5138,7 @@
             ]
           ],
           "len": 405,
-          "nom": "VALLONS",
+          "nom": "VALLONS6",
           "couleur": "TELESIEGE"
         },
         "111": {
@@ -6062,7 +6062,7 @@
             ]
           ],
           "len": 38,
-          "nom": "GOULET2",
+          "nom": "GOULET3",
           "couleur": "B"
         },
         "76": {
@@ -6442,7 +6442,7 @@
             ]
           ],
           "len": 60,
-          "nom": "CLOT GAUTHIER",
+          "nom": "CLOT GAUTHIER1",
           "couleur": "R"
         }
       }
@@ -6469,7 +6469,7 @@
             ]
           ],
           "len": 141,
-          "nom": "EYCHAUDA",
+          "nom": "EYCHAUDA2",
           "couleur": "TELESKI"
         },
         "109": {
@@ -6760,7 +6760,7 @@
             ]
           ],
           "len": 44,
-          "nom": "AYA",
+          "nom": "AYA1",
           "couleur": "B"
         },
         "97": {
@@ -6779,7 +6779,7 @@
             ]
           ],
           "len": 25,
-          "nom": "AYA1",
+          "nom": "AYA2",
           "couleur": "R"
         },
         "101": {
@@ -6802,7 +6802,7 @@
             ]
           ],
           "len": 78,
-          "nom": "AYA2",
+          "nom": "AYA3",
           "couleur": "R"
         }
       }
@@ -6891,7 +6891,7 @@
             ]
           ],
           "len": 44,
-          "nom": "ALPAGE",
+          "nom": "ALPAGE2",
           "couleur": "B"
         }
       }
@@ -6914,7 +6914,7 @@
             ]
           ],
           "len": 90,
-          "nom": "ALPAGE",
+          "nom": "ALPAGE4",
           "couleur": "TELESKI"
         },
         "85": {
@@ -7377,7 +7377,7 @@
             ]
           ],
           "len": 169,
-          "nom": "CIBOUIT",
+          "nom": "CIBOUIT1",
           "couleur": "TELESKI"
         },
         "104": {
@@ -7834,7 +7834,7 @@
             ]
           ],
           "len": 50,
-          "nom": "VALLONS2",
+          "nom": "VALLONS5",
           "couleur": "B"
         },
         "135": {
@@ -7857,7 +7857,7 @@
             ]
           ],
           "len": 107,
-          "nom": "VALLONS1",
+          "nom": "VALLONS7",
           "couleur": "B"
         }
       }
@@ -7888,7 +7888,7 @@
             ]
           ],
           "len": 55,
-          "nom": "AYA1",
+          "nom": "AYA4",
           "couleur": "B"
         },
         "99": {
@@ -7981,7 +7981,7 @@
             ]
           ],
           "len": 62,
-          "nom": "AYA2",
+          "nom": "AYA5",
           "couleur": "B"
         },
         "130": {
@@ -8004,7 +8004,7 @@
             ]
           ],
           "len": 35,
-          "nom": "AYA4",
+          "nom": "AYA6",
           "couleur": "R"
         }
       }
@@ -8234,7 +8234,7 @@
             ]
           ],
           "len": 47,
-          "nom": "AYA3",
+          "nom": "AYA7",
           "couleur": "R"
         }
       }
@@ -8469,7 +8469,7 @@
             ]
           ],
           "len": 207,
-          "nom": "AYA",
+          "nom": "AYA8",
           "couleur": "TELESKI"
         },
         "144": {
@@ -8574,7 +8574,7 @@
             ]
           ],
           "len": 83,
-          "nom": "FORET",
+          "nom": "FORET3",
           "couleur": "B"
         }
       }
@@ -8838,7 +8838,7 @@
             ]
           ],
           "len": 69,
-          "nom": "ALPAGE4",
+          "nom": "ALPAGE5",
           "couleur": "B"
         }
       }
@@ -9331,7 +9331,7 @@
             ]
           ],
           "len": 333,
-          "nom": "COMBES",
+          "nom": "COMBES3",
           "couleur": "TELESIEGE"
         },
         "47": {
@@ -9409,7 +9409,7 @@
             ]
           ],
           "len": 27,
-          "nom": "ALPAGE2",
+          "nom": "ALPAGE6",
           "couleur": "B"
         }
       }
@@ -9753,7 +9753,7 @@
             ]
           ],
           "len": 22,
-          "nom": "CLOT GAUTHIER1",
+          "nom": "CLOT GAUTHIER6",
           "couleur": "R"
         },
         "124": {
@@ -9855,7 +9855,7 @@
             ]
           ],
           "len": 150,
-          "nom": "EYCHAUDA",
+          "nom": "EYCHAUDA3",
           "couleur": "B"
         },
         "132": {
@@ -10107,7 +10107,7 @@
             ]
           ],
           "len": 109,
-          "nom": "EYCHAUDA3",
+          "nom": "EYCHAUDA4",
           "couleur": "B"
         }
       }
@@ -10142,7 +10142,7 @@
             ]
           ],
           "len": 155,
-          "nom": "CUCUMELLE",
+          "nom": "CUCUMELLE1",
           "couleur": "TELESKI"
         },
         "131": {
@@ -10157,7 +10157,7 @@
             ]
           ],
           "len": 27,
-          "nom": "EYCHAUDA2",
+          "nom": "EYCHAUDA5",
           "couleur": "B"
         }
       }
@@ -10417,7 +10417,7 @@
             ]
           ],
           "len": 44,
-          "nom": "3CROIX3",
+          "nom": "3CROIX4",
           "couleur": "V"
         }
       }
@@ -10495,7 +10495,7 @@
             ]
           ],
           "len": 28,
-          "nom": "CLOT GAUTHIER6",
+          "nom": "CLOT GAUTHIER7",
           "couleur": "R"
         }
       }
@@ -10674,7 +10674,7 @@
             ]
           ],
           "len": 177,
-          "nom": "BARRES",
+          "nom": "BARRES2",
           "couleur": "TELESKI"
         }
       }
@@ -11050,7 +11050,7 @@
             ]
           ],
           "len": 178,
-          "nom": "EDUITS2",
+          "nom": "EDUITS3",
           "couleur": "R"
         }
       }

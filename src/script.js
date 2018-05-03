@@ -17,7 +17,7 @@ function setup() {
 	background(51);
 	sel = document.getElementById('sel');
 	result = createDiv().class('div1');
-	result.html("cliquer sur 'Selectionner depart et arrivée' pour commencer", false);
+	result.html("Cliquer sur 'Selectionner depart et arrivée' pour commencer", false);
 	showVertex = document.getElementById('check');
 	route = dijkstra(dataGraph.graph, dep);
 	show();
@@ -87,7 +87,6 @@ function show(){
 	}
 }
 
-
 function showRoute(route, ar){
 	var cur = ar;
 	while(route[cur] != -1){
@@ -95,14 +94,16 @@ function showRoute(route, ar){
 		cur = route[cur];
 	}
 }
+
 function getTime(mins){
 	var tmp = int(mins/60);
 	return (tmp?(tmp.toString()+"h "):'')+((mins%60)?((mins%60).toString()+"m"):""); 
 }
+
 function writeRoute(route, dep, ar){
 	if(selecting != -1){
 		if(route[ar] === -1){
-			result.html("No route found", false);
+			result.html("Aucun chemin trouvé", false);
 		} else {
 			var cur = ar;
 			result.html("", false);

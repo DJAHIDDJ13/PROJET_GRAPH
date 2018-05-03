@@ -32,21 +32,31 @@ function dijkstra(graph, dep){
 	}
 	costs[dep] = 0;
 	while(visited.length < graph.length) {
+		// pour choisir un element non visité
 		var u = 0;
 		while(visited.includes(u))
 			u++;
+		// on cherche le sommet avec le cout le plus bas
 		for(var i=0; i<graph.length; i++){
 			if(costs[u] > costs[i] && !visited.includes(i))
 				u = i;
 		}
+		// on marque u comme vu
 		visited.push(u);
+		// on regarde tout les sommets voisins de u
 		for(let v of Object.keys(graph[u].voisins)){
 			v = int(v);
+			// si v n'etait pas visité
 			if(!visited.includes(v)){
+				// calcul de cout d'arc
 				var arcCost = calculateArcCost(graph[u].voisins[v]);
-				var alt = costs[u] + arcCost
+				// le cout d'arc + le cout jusqua la sommet courant u
+				var alt = costs[u] + arcCost;
+				// si le nouveau cout est plus petit que l'ancien cout
 				if(alt < costs[v]){
+					// on prend le nouveau cout
 					costs[v] = alt;
+					// et on met u comme pere de v
 					pere[v] = u;
 				}
 			}
