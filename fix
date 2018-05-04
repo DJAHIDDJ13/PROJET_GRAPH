@@ -1,0 +1,8 @@
+var d = {
+nom:"VALLONS10",
+len:dist(dataGraph.graph[143].coord[0], dataGraph.graph[143].coord[1], dataGraph.graph[59].coord[0], dataGraph.graph[59].coord[1]),
+coords:[[dataGraph.graph[143].coord[0],dataGraph.graph[143].coord[1]], [dataGraph.graph[59].coord[0], dataGraph.graph[59].coord[1]]],
+couleur:"B"
+};
+d.len = int(d.len);
+dataGraph.graph[143].voisins[59] = d;
